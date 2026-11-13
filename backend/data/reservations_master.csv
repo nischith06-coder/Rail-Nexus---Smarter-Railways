@@ -1,0 +1,301 @@
+train_number,coach_id,seat_id,from_station,to_station,status
+12627,S1,S1-1,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-1,Arsikere,Davangere,RESERVED
+12627,S1,S1-1,Davangere,New Delhi,RESERVED
+12627,S1,S1-2,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-2,Arsikere,Davangere,RESERVED
+12627,S1,S1-2,Davangere,New Delhi,RESERVED
+12627,S1,S1-3,KSR Bengaluru,Arsikere,RESERVED
+12627,S1,S1-3,Arsikere,Davangere,RESERVED
+12627,S1,S1-3,Davangere,New Delhi,RESERVED
+12627,S1,S1-4,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-4,Arsikere,Davangere,AVAILABLE
+12627,S1,S1-4,Davangere,New Delhi,RESERVED
+12627,S1,S1-5,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-5,Arsikere,Davangere,RESERVED
+12627,S1,S1-5,Davangere,New Delhi,AVAILABLE
+12627,S1,S1-6,KSR Bengaluru,Arsikere,RESERVED
+12627,S1,S1-6,Arsikere,Davangere,RESERVED
+12627,S1,S1-6,Davangere,New Delhi,RESERVED
+12627,S1,S1-7,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-7,Arsikere,Davangere,RESERVED
+12627,S1,S1-7,Davangere,New Delhi,RESERVED
+12627,S1,S1-8,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-8,Arsikere,Davangere,AVAILABLE
+12627,S1,S1-8,Davangere,New Delhi,RESERVED
+12627,S1,S1-9,KSR Bengaluru,Arsikere,RESERVED
+12627,S1,S1-9,Arsikere,Davangere,RESERVED
+12627,S1,S1-9,Davangere,New Delhi,RESERVED
+12627,S1,S1-10,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-10,Arsikere,Davangere,RESERVED
+12627,S1,S1-10,Davangere,New Delhi,AVAILABLE
+12627,S1,S1-11,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-11,Arsikere,Davangere,RESERVED
+12627,S1,S1-11,Davangere,New Delhi,RESERVED
+12627,S1,S1-12,KSR Bengaluru,Arsikere,RESERVED
+12627,S1,S1-12,Arsikere,Davangere,AVAILABLE
+12627,S1,S1-12,Davangere,New Delhi,RESERVED
+12627,S1,S1-13,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-13,Arsikere,Davangere,RESERVED
+12627,S1,S1-13,Davangere,New Delhi,RESERVED
+12627,S1,S1-14,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-14,Arsikere,Davangere,RESERVED
+12627,S1,S1-14,Davangere,New Delhi,RESERVED
+12627,S1,S1-15,KSR Bengaluru,Arsikere,RESERVED
+12627,S1,S1-15,Arsikere,Davangere,RESERVED
+12627,S1,S1-15,Davangere,New Delhi,AVAILABLE
+12627,S1,S1-16,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-16,Arsikere,Davangere,AVAILABLE
+12627,S1,S1-16,Davangere,New Delhi,RESERVED
+12627,S1,S1-17,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-17,Arsikere,Davangere,RESERVED
+12627,S1,S1-17,Davangere,New Delhi,RESERVED
+12627,S1,S1-18,KSR Bengaluru,Arsikere,RESERVED
+12627,S1,S1-18,Arsikere,Davangere,RESERVED
+12627,S1,S1-18,Davangere,New Delhi,RESERVED
+12627,S1,S1-19,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-19,Arsikere,Davangere,RESERVED
+12627,S1,S1-19,Davangere,New Delhi,RESERVED
+12627,S1,S1-20,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S1,S1-20,Arsikere,Davangere,AVAILABLE
+12627,S1,S1-20,Davangere,New Delhi,AVAILABLE
+12627,S2,S2-1,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-1,Arsikere,Davangere,RESERVED
+12627,S2,S2-1,Davangere,New Delhi,RESERVED
+12627,S2,S2-2,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-2,Arsikere,Davangere,RESERVED
+12627,S2,S2-2,Davangere,New Delhi,RESERVED
+12627,S2,S2-3,KSR Bengaluru,Arsikere,RESERVED
+12627,S2,S2-3,Arsikere,Davangere,RESERVED
+12627,S2,S2-3,Davangere,New Delhi,RESERVED
+12627,S2,S2-4,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-4,Arsikere,Davangere,AVAILABLE
+12627,S2,S2-4,Davangere,New Delhi,RESERVED
+12627,S2,S2-5,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-5,Arsikere,Davangere,RESERVED
+12627,S2,S2-5,Davangere,New Delhi,AVAILABLE
+12627,S2,S2-6,KSR Bengaluru,Arsikere,RESERVED
+12627,S2,S2-6,Arsikere,Davangere,RESERVED
+12627,S2,S2-6,Davangere,New Delhi,RESERVED
+12627,S2,S2-7,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-7,Arsikere,Davangere,RESERVED
+12627,S2,S2-7,Davangere,New Delhi,RESERVED
+12627,S2,S2-8,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-8,Arsikere,Davangere,AVAILABLE
+12627,S2,S2-8,Davangere,New Delhi,RESERVED
+12627,S2,S2-9,KSR Bengaluru,Arsikere,RESERVED
+12627,S2,S2-9,Arsikere,Davangere,RESERVED
+12627,S2,S2-9,Davangere,New Delhi,RESERVED
+12627,S2,S2-10,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-10,Arsikere,Davangere,RESERVED
+12627,S2,S2-10,Davangere,New Delhi,AVAILABLE
+12627,S2,S2-11,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-11,Arsikere,Davangere,RESERVED
+12627,S2,S2-11,Davangere,New Delhi,RESERVED
+12627,S2,S2-12,KSR Bengaluru,Arsikere,RESERVED
+12627,S2,S2-12,Arsikere,Davangere,AVAILABLE
+12627,S2,S2-12,Davangere,New Delhi,RESERVED
+12627,S2,S2-13,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-13,Arsikere,Davangere,RESERVED
+12627,S2,S2-13,Davangere,New Delhi,RESERVED
+12627,S2,S2-14,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-14,Arsikere,Davangere,RESERVED
+12627,S2,S2-14,Davangere,New Delhi,RESERVED
+12627,S2,S2-15,KSR Bengaluru,Arsikere,RESERVED
+12627,S2,S2-15,Arsikere,Davangere,RESERVED
+12627,S2,S2-15,Davangere,New Delhi,AVAILABLE
+12627,S2,S2-16,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-16,Arsikere,Davangere,AVAILABLE
+12627,S2,S2-16,Davangere,New Delhi,RESERVED
+12627,S2,S2-17,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-17,Arsikere,Davangere,RESERVED
+12627,S2,S2-17,Davangere,New Delhi,RESERVED
+12627,S2,S2-18,KSR Bengaluru,Arsikere,RESERVED
+12627,S2,S2-18,Arsikere,Davangere,RESERVED
+12627,S2,S2-18,Davangere,New Delhi,RESERVED
+12627,S2,S2-19,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-19,Arsikere,Davangere,RESERVED
+12627,S2,S2-19,Davangere,New Delhi,RESERVED
+12627,S2,S2-20,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S2,S2-20,Arsikere,Davangere,AVAILABLE
+12627,S2,S2-20,Davangere,New Delhi,AVAILABLE
+12627,S3,S3-1,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-1,Arsikere,Davangere,RESERVED
+12627,S3,S3-1,Davangere,New Delhi,RESERVED
+12627,S3,S3-2,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-2,Arsikere,Davangere,RESERVED
+12627,S3,S3-2,Davangere,New Delhi,RESERVED
+12627,S3,S3-3,KSR Bengaluru,Arsikere,RESERVED
+12627,S3,S3-3,Arsikere,Davangere,RESERVED
+12627,S3,S3-3,Davangere,New Delhi,RESERVED
+12627,S3,S3-4,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-4,Arsikere,Davangere,AVAILABLE
+12627,S3,S3-4,Davangere,New Delhi,RESERVED
+12627,S3,S3-5,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-5,Arsikere,Davangere,RESERVED
+12627,S3,S3-5,Davangere,New Delhi,AVAILABLE
+12627,S3,S3-6,KSR Bengaluru,Arsikere,RESERVED
+12627,S3,S3-6,Arsikere,Davangere,RESERVED
+12627,S3,S3-6,Davangere,New Delhi,RESERVED
+12627,S3,S3-7,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-7,Arsikere,Davangere,RESERVED
+12627,S3,S3-7,Davangere,New Delhi,RESERVED
+12627,S3,S3-8,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-8,Arsikere,Davangere,AVAILABLE
+12627,S3,S3-8,Davangere,New Delhi,RESERVED
+12627,S3,S3-9,KSR Bengaluru,Arsikere,RESERVED
+12627,S3,S3-9,Arsikere,Davangere,RESERVED
+12627,S3,S3-9,Davangere,New Delhi,RESERVED
+12627,S3,S3-10,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-10,Arsikere,Davangere,RESERVED
+12627,S3,S3-10,Davangere,New Delhi,AVAILABLE
+12627,S3,S3-11,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-11,Arsikere,Davangere,RESERVED
+12627,S3,S3-11,Davangere,New Delhi,RESERVED
+12627,S3,S3-12,KSR Bengaluru,Arsikere,RESERVED
+12627,S3,S3-12,Arsikere,Davangere,AVAILABLE
+12627,S3,S3-12,Davangere,New Delhi,RESERVED
+12627,S3,S3-13,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-13,Arsikere,Davangere,RESERVED
+12627,S3,S3-13,Davangere,New Delhi,RESERVED
+12627,S3,S3-14,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-14,Arsikere,Davangere,RESERVED
+12627,S3,S3-14,Davangere,New Delhi,RESERVED
+12627,S3,S3-15,KSR Bengaluru,Arsikere,RESERVED
+12627,S3,S3-15,Arsikere,Davangere,RESERVED
+12627,S3,S3-15,Davangere,New Delhi,AVAILABLE
+12627,S3,S3-16,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-16,Arsikere,Davangere,AVAILABLE
+12627,S3,S3-16,Davangere,New Delhi,RESERVED
+12627,S3,S3-17,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-17,Arsikere,Davangere,RESERVED
+12627,S3,S3-17,Davangere,New Delhi,RESERVED
+12627,S3,S3-18,KSR Bengaluru,Arsikere,RESERVED
+12627,S3,S3-18,Arsikere,Davangere,RESERVED
+12627,S3,S3-18,Davangere,New Delhi,RESERVED
+12627,S3,S3-19,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-19,Arsikere,Davangere,RESERVED
+12627,S3,S3-19,Davangere,New Delhi,RESERVED
+12627,S3,S3-20,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S3,S3-20,Arsikere,Davangere,AVAILABLE
+12627,S3,S3-20,Davangere,New Delhi,AVAILABLE
+12627,S4,S4-1,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-1,Arsikere,Davangere,RESERVED
+12627,S4,S4-1,Davangere,New Delhi,RESERVED
+12627,S4,S4-2,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-2,Arsikere,Davangere,RESERVED
+12627,S4,S4-2,Davangere,New Delhi,RESERVED
+12627,S4,S4-3,KSR Bengaluru,Arsikere,RESERVED
+12627,S4,S4-3,Arsikere,Davangere,RESERVED
+12627,S4,S4-3,Davangere,New Delhi,RESERVED
+12627,S4,S4-4,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-4,Arsikere,Davangere,AVAILABLE
+12627,S4,S4-4,Davangere,New Delhi,RESERVED
+12627,S4,S4-5,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-5,Arsikere,Davangere,RESERVED
+12627,S4,S4-5,Davangere,New Delhi,AVAILABLE
+12627,S4,S4-6,KSR Bengaluru,Arsikere,RESERVED
+12627,S4,S4-6,Arsikere,Davangere,RESERVED
+12627,S4,S4-6,Davangere,New Delhi,RESERVED
+12627,S4,S4-7,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-7,Arsikere,Davangere,RESERVED
+12627,S4,S4-7,Davangere,New Delhi,RESERVED
+12627,S4,S4-8,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-8,Arsikere,Davangere,AVAILABLE
+12627,S4,S4-8,Davangere,New Delhi,RESERVED
+12627,S4,S4-9,KSR Bengaluru,Arsikere,RESERVED
+12627,S4,S4-9,Arsikere,Davangere,RESERVED
+12627,S4,S4-9,Davangere,New Delhi,RESERVED
+12627,S4,S4-10,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-10,Arsikere,Davangere,RESERVED
+12627,S4,S4-10,Davangere,New Delhi,AVAILABLE
+12627,S4,S4-11,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-11,Arsikere,Davangere,RESERVED
+12627,S4,S4-11,Davangere,New Delhi,RESERVED
+12627,S4,S4-12,KSR Bengaluru,Arsikere,RESERVED
+12627,S4,S4-12,Arsikere,Davangere,AVAILABLE
+12627,S4,S4-12,Davangere,New Delhi,RESERVED
+12627,S4,S4-13,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-13,Arsikere,Davangere,RESERVED
+12627,S4,S4-13,Davangere,New Delhi,RESERVED
+12627,S4,S4-14,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-14,Arsikere,Davangere,RESERVED
+12627,S4,S4-14,Davangere,New Delhi,RESERVED
+12627,S4,S4-15,KSR Bengaluru,Arsikere,RESERVED
+12627,S4,S4-15,Arsikere,Davangere,RESERVED
+12627,S4,S4-15,Davangere,New Delhi,AVAILABLE
+12627,S4,S4-16,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-16,Arsikere,Davangere,AVAILABLE
+12627,S4,S4-16,Davangere,New Delhi,RESERVED
+12627,S4,S4-17,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-17,Arsikere,Davangere,RESERVED
+12627,S4,S4-17,Davangere,New Delhi,RESERVED
+12627,S4,S4-18,KSR Bengaluru,Arsikere,RESERVED
+12627,S4,S4-18,Arsikere,Davangere,RESERVED
+12627,S4,S4-18,Davangere,New Delhi,RESERVED
+12627,S4,S4-19,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-19,Arsikere,Davangere,RESERVED
+12627,S4,S4-19,Davangere,New Delhi,RESERVED
+12627,S4,S4-20,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S4,S4-20,Arsikere,Davangere,AVAILABLE
+12627,S4,S4-20,Davangere,New Delhi,AVAILABLE
+12627,S5,S5-1,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-1,Arsikere,Davangere,RESERVED
+12627,S5,S5-1,Davangere,New Delhi,RESERVED
+12627,S5,S5-2,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-2,Arsikere,Davangere,RESERVED
+12627,S5,S5-2,Davangere,New Delhi,RESERVED
+12627,S5,S5-3,KSR Bengaluru,Arsikere,RESERVED
+12627,S5,S5-3,Arsikere,Davangere,RESERVED
+12627,S5,S5-3,Davangere,New Delhi,RESERVED
+12627,S5,S5-4,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-4,Arsikere,Davangere,AVAILABLE
+12627,S5,S5-4,Davangere,New Delhi,RESERVED
+12627,S5,S5-5,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-5,Arsikere,Davangere,RESERVED
+12627,S5,S5-5,Davangere,New Delhi,AVAILABLE
+12627,S5,S5-6,KSR Bengaluru,Arsikere,RESERVED
+12627,S5,S5-6,Arsikere,Davangere,RESERVED
+12627,S5,S5-6,Davangere,New Delhi,RESERVED
+12627,S5,S5-7,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-7,Arsikere,Davangere,RESERVED
+12627,S5,S5-7,Davangere,New Delhi,RESERVED
+12627,S5,S5-8,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-8,Arsikere,Davangere,AVAILABLE
+12627,S5,S5-8,Davangere,New Delhi,RESERVED
+12627,S5,S5-9,KSR Bengaluru,Arsikere,RESERVED
+12627,S5,S5-9,Arsikere,Davangere,RESERVED
+12627,S5,S5-9,Davangere,New Delhi,RESERVED
+12627,S5,S5-10,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-10,Arsikere,Davangere,RESERVED
+12627,S5,S5-10,Davangere,New Delhi,AVAILABLE
+12627,S5,S5-11,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-11,Arsikere,Davangere,RESERVED
+12627,S5,S5-11,Davangere,New Delhi,RESERVED
+12627,S5,S5-12,KSR Bengaluru,Arsikere,RESERVED
+12627,S5,S5-12,Arsikere,Davangere,AVAILABLE
+12627,S5,S5-12,Davangere,New Delhi,RESERVED
+12627,S5,S5-13,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-13,Arsikere,Davangere,RESERVED
+12627,S5,S5-13,Davangere,New Delhi,RESERVED
+12627,S5,S5-14,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-14,Arsikere,Davangere,RESERVED
+12627,S5,S5-14,Davangere,New Delhi,RESERVED
+12627,S5,S5-15,KSR Bengaluru,Arsikere,RESERVED
+12627,S5,S5-15,Arsikere,Davangere,RESERVED
+12627,S5,S5-15,Davangere,New Delhi,AVAILABLE
+12627,S5,S5-16,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-16,Arsikere,Davangere,AVAILABLE
+12627,S5,S5-16,Davangere,New Delhi,RESERVED
+12627,S5,S5-17,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-17,Arsikere,Davangere,RESERVED
+12627,S5,S5-17,Davangere,New Delhi,RESERVED
+12627,S5,S5-18,KSR Bengaluru,Arsikere,RESERVED
+12627,S5,S5-18,Arsikere,Davangere,RESERVED
+12627,S5,S5-18,Davangere,New Delhi,RESERVED
+12627,S5,S5-19,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-19,Arsikere,Davangere,RESERVED
+12627,S5,S5-19,Davangere,New Delhi,RESERVED
+12627,S5,S5-20,KSR Bengaluru,Arsikere,AVAILABLE
+12627,S5,S5-20,Arsikere,Davangere,AVAILABLE
+12627,S5,S5-20,Davangere,New Delhi,AVAILABLE
