@@ -17,7 +17,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 for router in [health.router,trains.router,eta.router,events.router,platforms.router,seats.router,notifications.router,network.router,whatif.router,demo.router,crew.router,station_view.router,operations.router,websocket.router]:
-    app.include_router(router, prefix="/api/v1")
+    app.include_router(router)
 
 @app.get("/", include_in_schema=False)
 def dashboard():
