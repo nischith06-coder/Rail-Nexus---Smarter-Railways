@@ -1,0 +1,1 @@
+Replace railnexus-logo.svg with the exact supplied RailNexus logo artwork if desired. Keep the filename unchanged.

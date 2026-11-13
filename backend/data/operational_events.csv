@@ -1,0 +1,2 @@
+event_id,event_type,category,location,description,severity,affected_section,status
+E1001,SIGNAL_FAILURE,SIGNAL,Tumakuru–Arsikere,Signal issue in simulated section,HIGH,Tumakuru–Arsikere,ACTIVE

@@ -1,0 +1,2001 @@
+train_number,train_name,train_type,category,source_station,destination_station
+12000,RailNexus Express 12000,Express,EXPRESS,KSR Bengaluru,New Delhi
+12001,RailNexus Superfast 12001,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12002,RailNexus Intercity 12002,Intercity,EXPRESS,Mysuru,Belagavi
+12003,RailNexus Vande Bharat 12003,Vande Bharat,PREMIUM,Pune,Mysuru
+12004,RailNexus Shatabdi-style Prototype 12004,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12005,RailNexus Express 12005,Express,EXPRESS,New Delhi,Hyderabad
+12006,RailNexus Superfast 12006,Superfast,EXPRESS,Howrah,Secunderabad
+12007,RailNexus Intercity 12007,Intercity,EXPRESS,Mumbai,Gadag
+12008,RailNexus Vande Bharat 12008,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12009,RailNexus Shatabdi-style Prototype 12009,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12010,RailNexus Express 12010,Express,EXPRESS,KSR Bengaluru,New Delhi
+12011,RailNexus Superfast 12011,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12012,RailNexus Intercity 12012,Intercity,EXPRESS,Mysuru,Belagavi
+12013,RailNexus Vande Bharat 12013,Vande Bharat,PREMIUM,Pune,Mysuru
+12014,RailNexus Shatabdi-style Prototype 12014,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12015,RailNexus Express 12015,Express,EXPRESS,New Delhi,Hyderabad
+12016,RailNexus Superfast 12016,Superfast,EXPRESS,Howrah,Secunderabad
+12017,RailNexus Intercity 12017,Intercity,EXPRESS,Mumbai,Gadag
+12018,RailNexus Vande Bharat 12018,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12019,RailNexus Shatabdi-style Prototype 12019,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12020,RailNexus Express 12020,Express,EXPRESS,KSR Bengaluru,New Delhi
+12021,RailNexus Superfast 12021,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12022,RailNexus Intercity 12022,Intercity,EXPRESS,Mysuru,Belagavi
+12023,RailNexus Vande Bharat 12023,Vande Bharat,PREMIUM,Pune,Mysuru
+12024,RailNexus Shatabdi-style Prototype 12024,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12025,RailNexus Express 12025,Express,EXPRESS,New Delhi,Hyderabad
+12026,RailNexus Superfast 12026,Superfast,EXPRESS,Howrah,Secunderabad
+12027,RailNexus Intercity 12027,Intercity,EXPRESS,Mumbai,Gadag
+12028,RailNexus Vande Bharat 12028,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12029,RailNexus Shatabdi-style Prototype 12029,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12030,RailNexus Express 12030,Express,EXPRESS,KSR Bengaluru,New Delhi
+12031,RailNexus Superfast 12031,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12032,RailNexus Intercity 12032,Intercity,EXPRESS,Mysuru,Belagavi
+12033,RailNexus Vande Bharat 12033,Vande Bharat,PREMIUM,Pune,Mysuru
+12034,RailNexus Shatabdi-style Prototype 12034,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12035,RailNexus Express 12035,Express,EXPRESS,New Delhi,Hyderabad
+12036,RailNexus Superfast 12036,Superfast,EXPRESS,Howrah,Secunderabad
+12037,RailNexus Intercity 12037,Intercity,EXPRESS,Mumbai,Gadag
+12038,RailNexus Vande Bharat 12038,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12039,RailNexus Shatabdi-style Prototype 12039,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12040,RailNexus Express 12040,Express,EXPRESS,KSR Bengaluru,New Delhi
+12041,RailNexus Superfast 12041,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12042,RailNexus Intercity 12042,Intercity,EXPRESS,Mysuru,Belagavi
+12043,RailNexus Vande Bharat 12043,Vande Bharat,PREMIUM,Pune,Mysuru
+12044,RailNexus Shatabdi-style Prototype 12044,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12045,RailNexus Express 12045,Express,EXPRESS,New Delhi,Hyderabad
+12046,RailNexus Superfast 12046,Superfast,EXPRESS,Howrah,Secunderabad
+12047,RailNexus Intercity 12047,Intercity,EXPRESS,Mumbai,Gadag
+12048,RailNexus Vande Bharat 12048,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12049,RailNexus Shatabdi-style Prototype 12049,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12050,RailNexus Express 12050,Express,EXPRESS,KSR Bengaluru,New Delhi
+12051,RailNexus Superfast 12051,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12052,RailNexus Intercity 12052,Intercity,EXPRESS,Mysuru,Belagavi
+12053,RailNexus Vande Bharat 12053,Vande Bharat,PREMIUM,Pune,Mysuru
+12054,RailNexus Shatabdi-style Prototype 12054,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12055,RailNexus Express 12055,Express,EXPRESS,New Delhi,Hyderabad
+12056,RailNexus Superfast 12056,Superfast,EXPRESS,Howrah,Secunderabad
+12057,RailNexus Intercity 12057,Intercity,EXPRESS,Mumbai,Gadag
+12058,RailNexus Vande Bharat 12058,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12059,RailNexus Shatabdi-style Prototype 12059,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12060,RailNexus Express 12060,Express,EXPRESS,KSR Bengaluru,New Delhi
+12061,RailNexus Superfast 12061,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12062,RailNexus Intercity 12062,Intercity,EXPRESS,Mysuru,Belagavi
+12063,RailNexus Vande Bharat 12063,Vande Bharat,PREMIUM,Pune,Mysuru
+12064,RailNexus Shatabdi-style Prototype 12064,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12065,RailNexus Express 12065,Express,EXPRESS,New Delhi,Hyderabad
+12066,RailNexus Superfast 12066,Superfast,EXPRESS,Howrah,Secunderabad
+12067,RailNexus Intercity 12067,Intercity,EXPRESS,Mumbai,Gadag
+12068,RailNexus Vande Bharat 12068,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12069,RailNexus Shatabdi-style Prototype 12069,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12070,RailNexus Express 12070,Express,EXPRESS,KSR Bengaluru,New Delhi
+12071,RailNexus Superfast 12071,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12072,RailNexus Intercity 12072,Intercity,EXPRESS,Mysuru,Belagavi
+12073,RailNexus Vande Bharat 12073,Vande Bharat,PREMIUM,Pune,Mysuru
+12074,RailNexus Shatabdi-style Prototype 12074,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12075,RailNexus Express 12075,Express,EXPRESS,New Delhi,Hyderabad
+12076,RailNexus Superfast 12076,Superfast,EXPRESS,Howrah,Secunderabad
+12077,RailNexus Intercity 12077,Intercity,EXPRESS,Mumbai,Gadag
+12078,RailNexus Vande Bharat 12078,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12079,RailNexus Shatabdi-style Prototype 12079,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12080,RailNexus Express 12080,Express,EXPRESS,KSR Bengaluru,New Delhi
+12081,RailNexus Superfast 12081,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12082,RailNexus Intercity 12082,Intercity,EXPRESS,Mysuru,Belagavi
+12083,RailNexus Vande Bharat 12083,Vande Bharat,PREMIUM,Pune,Mysuru
+12084,RailNexus Shatabdi-style Prototype 12084,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12085,RailNexus Express 12085,Express,EXPRESS,New Delhi,Hyderabad
+12086,RailNexus Superfast 12086,Superfast,EXPRESS,Howrah,Secunderabad
+12087,RailNexus Intercity 12087,Intercity,EXPRESS,Mumbai,Gadag
+12088,RailNexus Vande Bharat 12088,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12089,RailNexus Shatabdi-style Prototype 12089,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12090,RailNexus Express 12090,Express,EXPRESS,KSR Bengaluru,New Delhi
+12091,RailNexus Superfast 12091,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12092,RailNexus Intercity 12092,Intercity,EXPRESS,Mysuru,Belagavi
+12093,RailNexus Vande Bharat 12093,Vande Bharat,PREMIUM,Pune,Mysuru
+12094,RailNexus Shatabdi-style Prototype 12094,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12095,RailNexus Express 12095,Express,EXPRESS,New Delhi,Hyderabad
+12096,RailNexus Superfast 12096,Superfast,EXPRESS,Howrah,Secunderabad
+12097,RailNexus Intercity 12097,Intercity,EXPRESS,Mumbai,Gadag
+12098,RailNexus Vande Bharat 12098,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12099,RailNexus Shatabdi-style Prototype 12099,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12100,RailNexus Express 12100,Express,EXPRESS,KSR Bengaluru,New Delhi
+12101,RailNexus Superfast 12101,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12102,RailNexus Intercity 12102,Intercity,EXPRESS,Mysuru,Belagavi
+12103,RailNexus Vande Bharat 12103,Vande Bharat,PREMIUM,Pune,Mysuru
+12104,RailNexus Shatabdi-style Prototype 12104,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12105,RailNexus Express 12105,Express,EXPRESS,New Delhi,Hyderabad
+12106,RailNexus Superfast 12106,Superfast,EXPRESS,Howrah,Secunderabad
+12107,RailNexus Intercity 12107,Intercity,EXPRESS,Mumbai,Gadag
+12108,RailNexus Vande Bharat 12108,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12109,RailNexus Shatabdi-style Prototype 12109,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12110,RailNexus Express 12110,Express,EXPRESS,KSR Bengaluru,New Delhi
+12111,RailNexus Superfast 12111,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12112,RailNexus Intercity 12112,Intercity,EXPRESS,Mysuru,Belagavi
+12113,RailNexus Vande Bharat 12113,Vande Bharat,PREMIUM,Pune,Mysuru
+12114,RailNexus Shatabdi-style Prototype 12114,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12115,RailNexus Express 12115,Express,EXPRESS,New Delhi,Hyderabad
+12116,RailNexus Superfast 12116,Superfast,EXPRESS,Howrah,Secunderabad
+12117,RailNexus Intercity 12117,Intercity,EXPRESS,Mumbai,Gadag
+12118,RailNexus Vande Bharat 12118,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12119,RailNexus Shatabdi-style Prototype 12119,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12120,RailNexus Express 12120,Express,EXPRESS,KSR Bengaluru,New Delhi
+12121,RailNexus Superfast 12121,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12122,RailNexus Intercity 12122,Intercity,EXPRESS,Mysuru,Belagavi
+12123,RailNexus Vande Bharat 12123,Vande Bharat,PREMIUM,Pune,Mysuru
+12124,RailNexus Shatabdi-style Prototype 12124,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12125,RailNexus Express 12125,Express,EXPRESS,New Delhi,Hyderabad
+12126,RailNexus Superfast 12126,Superfast,EXPRESS,Howrah,Secunderabad
+12127,RailNexus Intercity 12127,Intercity,EXPRESS,Mumbai,Gadag
+12128,RailNexus Vande Bharat 12128,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12129,RailNexus Shatabdi-style Prototype 12129,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12130,RailNexus Express 12130,Express,EXPRESS,KSR Bengaluru,New Delhi
+12131,RailNexus Superfast 12131,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12132,RailNexus Intercity 12132,Intercity,EXPRESS,Mysuru,Belagavi
+12133,RailNexus Vande Bharat 12133,Vande Bharat,PREMIUM,Pune,Mysuru
+12134,RailNexus Shatabdi-style Prototype 12134,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12135,RailNexus Express 12135,Express,EXPRESS,New Delhi,Hyderabad
+12136,RailNexus Superfast 12136,Superfast,EXPRESS,Howrah,Secunderabad
+12137,RailNexus Intercity 12137,Intercity,EXPRESS,Mumbai,Gadag
+12138,RailNexus Vande Bharat 12138,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12139,RailNexus Shatabdi-style Prototype 12139,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12140,RailNexus Express 12140,Express,EXPRESS,KSR Bengaluru,New Delhi
+12141,RailNexus Superfast 12141,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12142,RailNexus Intercity 12142,Intercity,EXPRESS,Mysuru,Belagavi
+12143,RailNexus Vande Bharat 12143,Vande Bharat,PREMIUM,Pune,Mysuru
+12144,RailNexus Shatabdi-style Prototype 12144,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12145,RailNexus Express 12145,Express,EXPRESS,New Delhi,Hyderabad
+12146,RailNexus Superfast 12146,Superfast,EXPRESS,Howrah,Secunderabad
+12147,RailNexus Intercity 12147,Intercity,EXPRESS,Mumbai,Gadag
+12148,RailNexus Vande Bharat 12148,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12149,RailNexus Shatabdi-style Prototype 12149,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12150,RailNexus Express 12150,Express,EXPRESS,KSR Bengaluru,New Delhi
+12151,RailNexus Superfast 12151,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12152,RailNexus Intercity 12152,Intercity,EXPRESS,Mysuru,Belagavi
+12153,RailNexus Vande Bharat 12153,Vande Bharat,PREMIUM,Pune,Mysuru
+12154,RailNexus Shatabdi-style Prototype 12154,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12155,RailNexus Express 12155,Express,EXPRESS,New Delhi,Hyderabad
+12156,RailNexus Superfast 12156,Superfast,EXPRESS,Howrah,Secunderabad
+12157,RailNexus Intercity 12157,Intercity,EXPRESS,Mumbai,Gadag
+12158,RailNexus Vande Bharat 12158,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12159,RailNexus Shatabdi-style Prototype 12159,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12160,RailNexus Express 12160,Express,EXPRESS,KSR Bengaluru,New Delhi
+12161,RailNexus Superfast 12161,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12162,RailNexus Intercity 12162,Intercity,EXPRESS,Mysuru,Belagavi
+12163,RailNexus Vande Bharat 12163,Vande Bharat,PREMIUM,Pune,Mysuru
+12164,RailNexus Shatabdi-style Prototype 12164,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12165,RailNexus Express 12165,Express,EXPRESS,New Delhi,Hyderabad
+12166,RailNexus Superfast 12166,Superfast,EXPRESS,Howrah,Secunderabad
+12167,RailNexus Intercity 12167,Intercity,EXPRESS,Mumbai,Gadag
+12168,RailNexus Vande Bharat 12168,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12169,RailNexus Shatabdi-style Prototype 12169,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12170,RailNexus Express 12170,Express,EXPRESS,KSR Bengaluru,New Delhi
+12171,RailNexus Superfast 12171,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12172,RailNexus Intercity 12172,Intercity,EXPRESS,Mysuru,Belagavi
+12173,RailNexus Vande Bharat 12173,Vande Bharat,PREMIUM,Pune,Mysuru
+12174,RailNexus Shatabdi-style Prototype 12174,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12175,RailNexus Express 12175,Express,EXPRESS,New Delhi,Hyderabad
+12176,RailNexus Superfast 12176,Superfast,EXPRESS,Howrah,Secunderabad
+12177,RailNexus Intercity 12177,Intercity,EXPRESS,Mumbai,Gadag
+12178,RailNexus Vande Bharat 12178,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12179,RailNexus Shatabdi-style Prototype 12179,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12180,RailNexus Express 12180,Express,EXPRESS,KSR Bengaluru,New Delhi
+12181,RailNexus Superfast 12181,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12182,RailNexus Intercity 12182,Intercity,EXPRESS,Mysuru,Belagavi
+12183,RailNexus Vande Bharat 12183,Vande Bharat,PREMIUM,Pune,Mysuru
+12184,RailNexus Shatabdi-style Prototype 12184,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12185,RailNexus Express 12185,Express,EXPRESS,New Delhi,Hyderabad
+12186,RailNexus Superfast 12186,Superfast,EXPRESS,Howrah,Secunderabad
+12187,RailNexus Intercity 12187,Intercity,EXPRESS,Mumbai,Gadag
+12188,RailNexus Vande Bharat 12188,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12189,RailNexus Shatabdi-style Prototype 12189,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12190,RailNexus Express 12190,Express,EXPRESS,KSR Bengaluru,New Delhi
+12191,RailNexus Superfast 12191,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12192,RailNexus Intercity 12192,Intercity,EXPRESS,Mysuru,Belagavi
+12193,RailNexus Vande Bharat 12193,Vande Bharat,PREMIUM,Pune,Mysuru
+12194,RailNexus Shatabdi-style Prototype 12194,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12195,RailNexus Express 12195,Express,EXPRESS,New Delhi,Hyderabad
+12196,RailNexus Superfast 12196,Superfast,EXPRESS,Howrah,Secunderabad
+12197,RailNexus Intercity 12197,Intercity,EXPRESS,Mumbai,Gadag
+12198,RailNexus Vande Bharat 12198,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12199,RailNexus Shatabdi-style Prototype 12199,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12200,RailNexus Express 12200,Express,EXPRESS,KSR Bengaluru,New Delhi
+12201,RailNexus Superfast 12201,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12202,RailNexus Intercity 12202,Intercity,EXPRESS,Mysuru,Belagavi
+12203,RailNexus Vande Bharat 12203,Vande Bharat,PREMIUM,Pune,Mysuru
+12204,RailNexus Shatabdi-style Prototype 12204,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12205,RailNexus Express 12205,Express,EXPRESS,New Delhi,Hyderabad
+12206,RailNexus Superfast 12206,Superfast,EXPRESS,Howrah,Secunderabad
+12207,RailNexus Intercity 12207,Intercity,EXPRESS,Mumbai,Gadag
+12208,RailNexus Vande Bharat 12208,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12209,RailNexus Shatabdi-style Prototype 12209,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12210,RailNexus Express 12210,Express,EXPRESS,KSR Bengaluru,New Delhi
+12211,RailNexus Superfast 12211,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12212,RailNexus Intercity 12212,Intercity,EXPRESS,Mysuru,Belagavi
+12213,RailNexus Vande Bharat 12213,Vande Bharat,PREMIUM,Pune,Mysuru
+12214,RailNexus Shatabdi-style Prototype 12214,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12215,RailNexus Express 12215,Express,EXPRESS,New Delhi,Hyderabad
+12216,RailNexus Superfast 12216,Superfast,EXPRESS,Howrah,Secunderabad
+12217,RailNexus Intercity 12217,Intercity,EXPRESS,Mumbai,Gadag
+12218,RailNexus Vande Bharat 12218,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12219,RailNexus Shatabdi-style Prototype 12219,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12220,RailNexus Express 12220,Express,EXPRESS,KSR Bengaluru,New Delhi
+12221,RailNexus Superfast 12221,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12222,RailNexus Intercity 12222,Intercity,EXPRESS,Mysuru,Belagavi
+12223,RailNexus Vande Bharat 12223,Vande Bharat,PREMIUM,Pune,Mysuru
+12224,RailNexus Shatabdi-style Prototype 12224,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12225,RailNexus Express 12225,Express,EXPRESS,New Delhi,Hyderabad
+12226,RailNexus Superfast 12226,Superfast,EXPRESS,Howrah,Secunderabad
+12227,RailNexus Intercity 12227,Intercity,EXPRESS,Mumbai,Gadag
+12228,RailNexus Vande Bharat 12228,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12229,RailNexus Shatabdi-style Prototype 12229,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12230,RailNexus Express 12230,Express,EXPRESS,KSR Bengaluru,New Delhi
+12231,RailNexus Superfast 12231,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12232,RailNexus Intercity 12232,Intercity,EXPRESS,Mysuru,Belagavi
+12233,RailNexus Vande Bharat 12233,Vande Bharat,PREMIUM,Pune,Mysuru
+12234,RailNexus Shatabdi-style Prototype 12234,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12235,RailNexus Express 12235,Express,EXPRESS,New Delhi,Hyderabad
+12236,RailNexus Superfast 12236,Superfast,EXPRESS,Howrah,Secunderabad
+12237,RailNexus Intercity 12237,Intercity,EXPRESS,Mumbai,Gadag
+12238,RailNexus Vande Bharat 12238,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12239,RailNexus Shatabdi-style Prototype 12239,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12240,RailNexus Express 12240,Express,EXPRESS,KSR Bengaluru,New Delhi
+12241,RailNexus Superfast 12241,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12242,RailNexus Intercity 12242,Intercity,EXPRESS,Mysuru,Belagavi
+12243,RailNexus Vande Bharat 12243,Vande Bharat,PREMIUM,Pune,Mysuru
+12244,RailNexus Shatabdi-style Prototype 12244,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12245,RailNexus Express 12245,Express,EXPRESS,New Delhi,Hyderabad
+12246,RailNexus Superfast 12246,Superfast,EXPRESS,Howrah,Secunderabad
+12247,RailNexus Intercity 12247,Intercity,EXPRESS,Mumbai,Gadag
+12248,RailNexus Vande Bharat 12248,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12249,RailNexus Shatabdi-style Prototype 12249,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12250,RailNexus Express 12250,Express,EXPRESS,KSR Bengaluru,New Delhi
+12251,RailNexus Superfast 12251,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12252,RailNexus Intercity 12252,Intercity,EXPRESS,Mysuru,Belagavi
+12253,RailNexus Vande Bharat 12253,Vande Bharat,PREMIUM,Pune,Mysuru
+12254,RailNexus Shatabdi-style Prototype 12254,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12255,RailNexus Express 12255,Express,EXPRESS,New Delhi,Hyderabad
+12256,RailNexus Superfast 12256,Superfast,EXPRESS,Howrah,Secunderabad
+12257,RailNexus Intercity 12257,Intercity,EXPRESS,Mumbai,Gadag
+12258,RailNexus Vande Bharat 12258,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12259,RailNexus Shatabdi-style Prototype 12259,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12260,RailNexus Express 12260,Express,EXPRESS,KSR Bengaluru,New Delhi
+12261,RailNexus Superfast 12261,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12262,RailNexus Intercity 12262,Intercity,EXPRESS,Mysuru,Belagavi
+12263,RailNexus Vande Bharat 12263,Vande Bharat,PREMIUM,Pune,Mysuru
+12264,RailNexus Shatabdi-style Prototype 12264,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12265,RailNexus Express 12265,Express,EXPRESS,New Delhi,Hyderabad
+12266,RailNexus Superfast 12266,Superfast,EXPRESS,Howrah,Secunderabad
+12267,RailNexus Intercity 12267,Intercity,EXPRESS,Mumbai,Gadag
+12268,RailNexus Vande Bharat 12268,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12269,RailNexus Shatabdi-style Prototype 12269,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12270,RailNexus Express 12270,Express,EXPRESS,KSR Bengaluru,New Delhi
+12271,RailNexus Superfast 12271,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12272,RailNexus Intercity 12272,Intercity,EXPRESS,Mysuru,Belagavi
+12273,RailNexus Vande Bharat 12273,Vande Bharat,PREMIUM,Pune,Mysuru
+12274,RailNexus Shatabdi-style Prototype 12274,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12275,RailNexus Express 12275,Express,EXPRESS,New Delhi,Hyderabad
+12276,RailNexus Superfast 12276,Superfast,EXPRESS,Howrah,Secunderabad
+12277,RailNexus Intercity 12277,Intercity,EXPRESS,Mumbai,Gadag
+12278,RailNexus Vande Bharat 12278,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12279,RailNexus Shatabdi-style Prototype 12279,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12280,RailNexus Express 12280,Express,EXPRESS,KSR Bengaluru,New Delhi
+12281,RailNexus Superfast 12281,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12282,RailNexus Intercity 12282,Intercity,EXPRESS,Mysuru,Belagavi
+12283,RailNexus Vande Bharat 12283,Vande Bharat,PREMIUM,Pune,Mysuru
+12284,RailNexus Shatabdi-style Prototype 12284,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12285,RailNexus Express 12285,Express,EXPRESS,New Delhi,Hyderabad
+12286,RailNexus Superfast 12286,Superfast,EXPRESS,Howrah,Secunderabad
+12287,RailNexus Intercity 12287,Intercity,EXPRESS,Mumbai,Gadag
+12288,RailNexus Vande Bharat 12288,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12289,RailNexus Shatabdi-style Prototype 12289,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12290,RailNexus Express 12290,Express,EXPRESS,KSR Bengaluru,New Delhi
+12291,RailNexus Superfast 12291,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12292,RailNexus Intercity 12292,Intercity,EXPRESS,Mysuru,Belagavi
+12293,RailNexus Vande Bharat 12293,Vande Bharat,PREMIUM,Pune,Mysuru
+12294,RailNexus Shatabdi-style Prototype 12294,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12295,RailNexus Express 12295,Express,EXPRESS,New Delhi,Hyderabad
+12296,RailNexus Superfast 12296,Superfast,EXPRESS,Howrah,Secunderabad
+12297,RailNexus Intercity 12297,Intercity,EXPRESS,Mumbai,Gadag
+12298,RailNexus Vande Bharat 12298,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12299,RailNexus Shatabdi-style Prototype 12299,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12300,RailNexus Express 12300,Express,EXPRESS,KSR Bengaluru,New Delhi
+12301,RailNexus Superfast 12301,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12302,RailNexus Intercity 12302,Intercity,EXPRESS,Mysuru,Belagavi
+12303,RailNexus Vande Bharat 12303,Vande Bharat,PREMIUM,Pune,Mysuru
+12304,RailNexus Shatabdi-style Prototype 12304,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12305,RailNexus Express 12305,Express,EXPRESS,New Delhi,Hyderabad
+12306,RailNexus Superfast 12306,Superfast,EXPRESS,Howrah,Secunderabad
+12307,RailNexus Intercity 12307,Intercity,EXPRESS,Mumbai,Gadag
+12308,RailNexus Vande Bharat 12308,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12309,RailNexus Shatabdi-style Prototype 12309,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12310,RailNexus Express 12310,Express,EXPRESS,KSR Bengaluru,New Delhi
+12311,RailNexus Superfast 12311,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12312,RailNexus Intercity 12312,Intercity,EXPRESS,Mysuru,Belagavi
+12313,RailNexus Vande Bharat 12313,Vande Bharat,PREMIUM,Pune,Mysuru
+12314,RailNexus Shatabdi-style Prototype 12314,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12315,RailNexus Express 12315,Express,EXPRESS,New Delhi,Hyderabad
+12316,RailNexus Superfast 12316,Superfast,EXPRESS,Howrah,Secunderabad
+12317,RailNexus Intercity 12317,Intercity,EXPRESS,Mumbai,Gadag
+12318,RailNexus Vande Bharat 12318,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12319,RailNexus Shatabdi-style Prototype 12319,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12320,RailNexus Express 12320,Express,EXPRESS,KSR Bengaluru,New Delhi
+12321,RailNexus Superfast 12321,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12322,RailNexus Intercity 12322,Intercity,EXPRESS,Mysuru,Belagavi
+12323,RailNexus Vande Bharat 12323,Vande Bharat,PREMIUM,Pune,Mysuru
+12324,RailNexus Shatabdi-style Prototype 12324,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12325,RailNexus Express 12325,Express,EXPRESS,New Delhi,Hyderabad
+12326,RailNexus Superfast 12326,Superfast,EXPRESS,Howrah,Secunderabad
+12327,RailNexus Intercity 12327,Intercity,EXPRESS,Mumbai,Gadag
+12328,RailNexus Vande Bharat 12328,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12329,RailNexus Shatabdi-style Prototype 12329,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12330,RailNexus Express 12330,Express,EXPRESS,KSR Bengaluru,New Delhi
+12331,RailNexus Superfast 12331,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12332,RailNexus Intercity 12332,Intercity,EXPRESS,Mysuru,Belagavi
+12333,RailNexus Vande Bharat 12333,Vande Bharat,PREMIUM,Pune,Mysuru
+12334,RailNexus Shatabdi-style Prototype 12334,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12335,RailNexus Express 12335,Express,EXPRESS,New Delhi,Hyderabad
+12336,RailNexus Superfast 12336,Superfast,EXPRESS,Howrah,Secunderabad
+12337,RailNexus Intercity 12337,Intercity,EXPRESS,Mumbai,Gadag
+12338,RailNexus Vande Bharat 12338,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12339,RailNexus Shatabdi-style Prototype 12339,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12340,RailNexus Express 12340,Express,EXPRESS,KSR Bengaluru,New Delhi
+12341,RailNexus Superfast 12341,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12342,RailNexus Intercity 12342,Intercity,EXPRESS,Mysuru,Belagavi
+12343,RailNexus Vande Bharat 12343,Vande Bharat,PREMIUM,Pune,Mysuru
+12344,RailNexus Shatabdi-style Prototype 12344,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12345,RailNexus Express 12345,Express,EXPRESS,New Delhi,Hyderabad
+12346,RailNexus Superfast 12346,Superfast,EXPRESS,Howrah,Secunderabad
+12347,RailNexus Intercity 12347,Intercity,EXPRESS,Mumbai,Gadag
+12348,RailNexus Vande Bharat 12348,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12349,RailNexus Shatabdi-style Prototype 12349,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12350,RailNexus Express 12350,Express,EXPRESS,KSR Bengaluru,New Delhi
+12351,RailNexus Superfast 12351,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12352,RailNexus Intercity 12352,Intercity,EXPRESS,Mysuru,Belagavi
+12353,RailNexus Vande Bharat 12353,Vande Bharat,PREMIUM,Pune,Mysuru
+12354,RailNexus Shatabdi-style Prototype 12354,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12355,RailNexus Express 12355,Express,EXPRESS,New Delhi,Hyderabad
+12356,RailNexus Superfast 12356,Superfast,EXPRESS,Howrah,Secunderabad
+12357,RailNexus Intercity 12357,Intercity,EXPRESS,Mumbai,Gadag
+12358,RailNexus Vande Bharat 12358,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12359,RailNexus Shatabdi-style Prototype 12359,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12360,RailNexus Express 12360,Express,EXPRESS,KSR Bengaluru,New Delhi
+12361,RailNexus Superfast 12361,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12362,RailNexus Intercity 12362,Intercity,EXPRESS,Mysuru,Belagavi
+12363,RailNexus Vande Bharat 12363,Vande Bharat,PREMIUM,Pune,Mysuru
+12364,RailNexus Shatabdi-style Prototype 12364,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12365,RailNexus Express 12365,Express,EXPRESS,New Delhi,Hyderabad
+12366,RailNexus Superfast 12366,Superfast,EXPRESS,Howrah,Secunderabad
+12367,RailNexus Intercity 12367,Intercity,EXPRESS,Mumbai,Gadag
+12368,RailNexus Vande Bharat 12368,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12369,RailNexus Shatabdi-style Prototype 12369,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12370,RailNexus Express 12370,Express,EXPRESS,KSR Bengaluru,New Delhi
+12371,RailNexus Superfast 12371,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12372,RailNexus Intercity 12372,Intercity,EXPRESS,Mysuru,Belagavi
+12373,RailNexus Vande Bharat 12373,Vande Bharat,PREMIUM,Pune,Mysuru
+12374,RailNexus Shatabdi-style Prototype 12374,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12375,RailNexus Express 12375,Express,EXPRESS,New Delhi,Hyderabad
+12376,RailNexus Superfast 12376,Superfast,EXPRESS,Howrah,Secunderabad
+12377,RailNexus Intercity 12377,Intercity,EXPRESS,Mumbai,Gadag
+12378,RailNexus Vande Bharat 12378,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12379,RailNexus Shatabdi-style Prototype 12379,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12380,RailNexus Express 12380,Express,EXPRESS,KSR Bengaluru,New Delhi
+12381,RailNexus Superfast 12381,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12382,RailNexus Intercity 12382,Intercity,EXPRESS,Mysuru,Belagavi
+12383,RailNexus Vande Bharat 12383,Vande Bharat,PREMIUM,Pune,Mysuru
+12384,RailNexus Shatabdi-style Prototype 12384,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12385,RailNexus Express 12385,Express,EXPRESS,New Delhi,Hyderabad
+12386,RailNexus Superfast 12386,Superfast,EXPRESS,Howrah,Secunderabad
+12387,RailNexus Intercity 12387,Intercity,EXPRESS,Mumbai,Gadag
+12388,RailNexus Vande Bharat 12388,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12389,RailNexus Shatabdi-style Prototype 12389,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12390,RailNexus Express 12390,Express,EXPRESS,KSR Bengaluru,New Delhi
+12391,RailNexus Superfast 12391,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12392,RailNexus Intercity 12392,Intercity,EXPRESS,Mysuru,Belagavi
+12393,RailNexus Vande Bharat 12393,Vande Bharat,PREMIUM,Pune,Mysuru
+12394,RailNexus Shatabdi-style Prototype 12394,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12395,RailNexus Express 12395,Express,EXPRESS,New Delhi,Hyderabad
+12396,RailNexus Superfast 12396,Superfast,EXPRESS,Howrah,Secunderabad
+12397,RailNexus Intercity 12397,Intercity,EXPRESS,Mumbai,Gadag
+12398,RailNexus Vande Bharat 12398,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12399,RailNexus Shatabdi-style Prototype 12399,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12400,RailNexus Express 12400,Express,EXPRESS,KSR Bengaluru,New Delhi
+12401,RailNexus Superfast 12401,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12402,RailNexus Intercity 12402,Intercity,EXPRESS,Mysuru,Belagavi
+12403,RailNexus Vande Bharat 12403,Vande Bharat,PREMIUM,Pune,Mysuru
+12404,RailNexus Shatabdi-style Prototype 12404,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12405,RailNexus Express 12405,Express,EXPRESS,New Delhi,Hyderabad
+12406,RailNexus Superfast 12406,Superfast,EXPRESS,Howrah,Secunderabad
+12407,RailNexus Intercity 12407,Intercity,EXPRESS,Mumbai,Gadag
+12408,RailNexus Vande Bharat 12408,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12409,RailNexus Shatabdi-style Prototype 12409,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12410,RailNexus Express 12410,Express,EXPRESS,KSR Bengaluru,New Delhi
+12411,RailNexus Superfast 12411,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12412,RailNexus Intercity 12412,Intercity,EXPRESS,Mysuru,Belagavi
+12413,RailNexus Vande Bharat 12413,Vande Bharat,PREMIUM,Pune,Mysuru
+12414,RailNexus Shatabdi-style Prototype 12414,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12415,RailNexus Express 12415,Express,EXPRESS,New Delhi,Hyderabad
+12416,RailNexus Superfast 12416,Superfast,EXPRESS,Howrah,Secunderabad
+12417,RailNexus Intercity 12417,Intercity,EXPRESS,Mumbai,Gadag
+12418,RailNexus Vande Bharat 12418,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12419,RailNexus Shatabdi-style Prototype 12419,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12420,RailNexus Express 12420,Express,EXPRESS,KSR Bengaluru,New Delhi
+12421,RailNexus Superfast 12421,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12422,RailNexus Intercity 12422,Intercity,EXPRESS,Mysuru,Belagavi
+12423,RailNexus Vande Bharat 12423,Vande Bharat,PREMIUM,Pune,Mysuru
+12424,RailNexus Shatabdi-style Prototype 12424,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12425,RailNexus Express 12425,Express,EXPRESS,New Delhi,Hyderabad
+12426,RailNexus Superfast 12426,Superfast,EXPRESS,Howrah,Secunderabad
+12427,RailNexus Intercity 12427,Intercity,EXPRESS,Mumbai,Gadag
+12428,RailNexus Vande Bharat 12428,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12429,RailNexus Shatabdi-style Prototype 12429,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12430,RailNexus Express 12430,Express,EXPRESS,KSR Bengaluru,New Delhi
+12431,RailNexus Superfast 12431,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12432,RailNexus Intercity 12432,Intercity,EXPRESS,Mysuru,Belagavi
+12433,RailNexus Vande Bharat 12433,Vande Bharat,PREMIUM,Pune,Mysuru
+12434,RailNexus Shatabdi-style Prototype 12434,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12435,RailNexus Express 12435,Express,EXPRESS,New Delhi,Hyderabad
+12436,RailNexus Superfast 12436,Superfast,EXPRESS,Howrah,Secunderabad
+12437,RailNexus Intercity 12437,Intercity,EXPRESS,Mumbai,Gadag
+12438,RailNexus Vande Bharat 12438,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12439,RailNexus Shatabdi-style Prototype 12439,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12440,RailNexus Express 12440,Express,EXPRESS,KSR Bengaluru,New Delhi
+12441,RailNexus Superfast 12441,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12442,RailNexus Intercity 12442,Intercity,EXPRESS,Mysuru,Belagavi
+12443,RailNexus Vande Bharat 12443,Vande Bharat,PREMIUM,Pune,Mysuru
+12444,RailNexus Shatabdi-style Prototype 12444,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12445,RailNexus Express 12445,Express,EXPRESS,New Delhi,Hyderabad
+12446,RailNexus Superfast 12446,Superfast,EXPRESS,Howrah,Secunderabad
+12447,RailNexus Intercity 12447,Intercity,EXPRESS,Mumbai,Gadag
+12448,RailNexus Vande Bharat 12448,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12449,RailNexus Shatabdi-style Prototype 12449,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12450,RailNexus Express 12450,Express,EXPRESS,KSR Bengaluru,New Delhi
+12451,RailNexus Superfast 12451,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12452,RailNexus Intercity 12452,Intercity,EXPRESS,Mysuru,Belagavi
+12453,RailNexus Vande Bharat 12453,Vande Bharat,PREMIUM,Pune,Mysuru
+12454,RailNexus Shatabdi-style Prototype 12454,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12455,RailNexus Express 12455,Express,EXPRESS,New Delhi,Hyderabad
+12456,RailNexus Superfast 12456,Superfast,EXPRESS,Howrah,Secunderabad
+12457,RailNexus Intercity 12457,Intercity,EXPRESS,Mumbai,Gadag
+12458,RailNexus Vande Bharat 12458,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12459,RailNexus Shatabdi-style Prototype 12459,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12460,RailNexus Express 12460,Express,EXPRESS,KSR Bengaluru,New Delhi
+12461,RailNexus Superfast 12461,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12462,RailNexus Intercity 12462,Intercity,EXPRESS,Mysuru,Belagavi
+12463,RailNexus Vande Bharat 12463,Vande Bharat,PREMIUM,Pune,Mysuru
+12464,RailNexus Shatabdi-style Prototype 12464,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12465,RailNexus Express 12465,Express,EXPRESS,New Delhi,Hyderabad
+12466,RailNexus Superfast 12466,Superfast,EXPRESS,Howrah,Secunderabad
+12467,RailNexus Intercity 12467,Intercity,EXPRESS,Mumbai,Gadag
+12468,RailNexus Vande Bharat 12468,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12469,RailNexus Shatabdi-style Prototype 12469,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12470,RailNexus Express 12470,Express,EXPRESS,KSR Bengaluru,New Delhi
+12471,RailNexus Superfast 12471,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12472,RailNexus Intercity 12472,Intercity,EXPRESS,Mysuru,Belagavi
+12473,RailNexus Vande Bharat 12473,Vande Bharat,PREMIUM,Pune,Mysuru
+12474,RailNexus Shatabdi-style Prototype 12474,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12475,RailNexus Express 12475,Express,EXPRESS,New Delhi,Hyderabad
+12476,RailNexus Superfast 12476,Superfast,EXPRESS,Howrah,Secunderabad
+12477,RailNexus Intercity 12477,Intercity,EXPRESS,Mumbai,Gadag
+12478,RailNexus Vande Bharat 12478,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12479,RailNexus Shatabdi-style Prototype 12479,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12480,RailNexus Express 12480,Express,EXPRESS,KSR Bengaluru,New Delhi
+12481,RailNexus Superfast 12481,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12482,RailNexus Intercity 12482,Intercity,EXPRESS,Mysuru,Belagavi
+12483,RailNexus Vande Bharat 12483,Vande Bharat,PREMIUM,Pune,Mysuru
+12484,RailNexus Shatabdi-style Prototype 12484,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12485,RailNexus Express 12485,Express,EXPRESS,New Delhi,Hyderabad
+12486,RailNexus Superfast 12486,Superfast,EXPRESS,Howrah,Secunderabad
+12487,RailNexus Intercity 12487,Intercity,EXPRESS,Mumbai,Gadag
+12488,RailNexus Vande Bharat 12488,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12489,RailNexus Shatabdi-style Prototype 12489,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12490,RailNexus Express 12490,Express,EXPRESS,KSR Bengaluru,New Delhi
+12491,RailNexus Superfast 12491,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12492,RailNexus Intercity 12492,Intercity,EXPRESS,Mysuru,Belagavi
+12493,RailNexus Vande Bharat 12493,Vande Bharat,PREMIUM,Pune,Mysuru
+12494,RailNexus Shatabdi-style Prototype 12494,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12495,RailNexus Express 12495,Express,EXPRESS,New Delhi,Hyderabad
+12496,RailNexus Superfast 12496,Superfast,EXPRESS,Howrah,Secunderabad
+12497,RailNexus Intercity 12497,Intercity,EXPRESS,Mumbai,Gadag
+12498,RailNexus Vande Bharat 12498,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12499,RailNexus Shatabdi-style Prototype 12499,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12500,RailNexus Express 12500,Express,EXPRESS,KSR Bengaluru,New Delhi
+12501,RailNexus Superfast 12501,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12502,RailNexus Intercity 12502,Intercity,EXPRESS,Mysuru,Belagavi
+12503,RailNexus Vande Bharat 12503,Vande Bharat,PREMIUM,Pune,Mysuru
+12504,RailNexus Shatabdi-style Prototype 12504,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12505,RailNexus Express 12505,Express,EXPRESS,New Delhi,Hyderabad
+12506,RailNexus Superfast 12506,Superfast,EXPRESS,Howrah,Secunderabad
+12507,RailNexus Intercity 12507,Intercity,EXPRESS,Mumbai,Gadag
+12508,RailNexus Vande Bharat 12508,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12509,RailNexus Shatabdi-style Prototype 12509,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12510,RailNexus Express 12510,Express,EXPRESS,KSR Bengaluru,New Delhi
+12511,RailNexus Superfast 12511,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12512,RailNexus Intercity 12512,Intercity,EXPRESS,Mysuru,Belagavi
+12513,RailNexus Vande Bharat 12513,Vande Bharat,PREMIUM,Pune,Mysuru
+12514,RailNexus Shatabdi-style Prototype 12514,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12515,RailNexus Express 12515,Express,EXPRESS,New Delhi,Hyderabad
+12516,RailNexus Superfast 12516,Superfast,EXPRESS,Howrah,Secunderabad
+12517,RailNexus Intercity 12517,Intercity,EXPRESS,Mumbai,Gadag
+12518,RailNexus Vande Bharat 12518,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12519,RailNexus Shatabdi-style Prototype 12519,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12520,RailNexus Express 12520,Express,EXPRESS,KSR Bengaluru,New Delhi
+12521,RailNexus Superfast 12521,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12522,RailNexus Intercity 12522,Intercity,EXPRESS,Mysuru,Belagavi
+12523,RailNexus Vande Bharat 12523,Vande Bharat,PREMIUM,Pune,Mysuru
+12524,RailNexus Shatabdi-style Prototype 12524,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12525,RailNexus Express 12525,Express,EXPRESS,New Delhi,Hyderabad
+12526,RailNexus Superfast 12526,Superfast,EXPRESS,Howrah,Secunderabad
+12527,RailNexus Intercity 12527,Intercity,EXPRESS,Mumbai,Gadag
+12528,RailNexus Vande Bharat 12528,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12529,RailNexus Shatabdi-style Prototype 12529,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12530,RailNexus Express 12530,Express,EXPRESS,KSR Bengaluru,New Delhi
+12531,RailNexus Superfast 12531,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12532,RailNexus Intercity 12532,Intercity,EXPRESS,Mysuru,Belagavi
+12533,RailNexus Vande Bharat 12533,Vande Bharat,PREMIUM,Pune,Mysuru
+12534,RailNexus Shatabdi-style Prototype 12534,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12535,RailNexus Express 12535,Express,EXPRESS,New Delhi,Hyderabad
+12536,RailNexus Superfast 12536,Superfast,EXPRESS,Howrah,Secunderabad
+12537,RailNexus Intercity 12537,Intercity,EXPRESS,Mumbai,Gadag
+12538,RailNexus Vande Bharat 12538,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12539,RailNexus Shatabdi-style Prototype 12539,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12540,RailNexus Express 12540,Express,EXPRESS,KSR Bengaluru,New Delhi
+12541,RailNexus Superfast 12541,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12542,RailNexus Intercity 12542,Intercity,EXPRESS,Mysuru,Belagavi
+12543,RailNexus Vande Bharat 12543,Vande Bharat,PREMIUM,Pune,Mysuru
+12544,RailNexus Shatabdi-style Prototype 12544,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12545,RailNexus Express 12545,Express,EXPRESS,New Delhi,Hyderabad
+12546,RailNexus Superfast 12546,Superfast,EXPRESS,Howrah,Secunderabad
+12547,RailNexus Intercity 12547,Intercity,EXPRESS,Mumbai,Gadag
+12548,RailNexus Vande Bharat 12548,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12549,RailNexus Shatabdi-style Prototype 12549,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12550,RailNexus Express 12550,Express,EXPRESS,KSR Bengaluru,New Delhi
+12551,RailNexus Superfast 12551,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12552,RailNexus Intercity 12552,Intercity,EXPRESS,Mysuru,Belagavi
+12553,RailNexus Vande Bharat 12553,Vande Bharat,PREMIUM,Pune,Mysuru
+12554,RailNexus Shatabdi-style Prototype 12554,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12555,RailNexus Express 12555,Express,EXPRESS,New Delhi,Hyderabad
+12556,RailNexus Superfast 12556,Superfast,EXPRESS,Howrah,Secunderabad
+12557,RailNexus Intercity 12557,Intercity,EXPRESS,Mumbai,Gadag
+12558,RailNexus Vande Bharat 12558,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12559,RailNexus Shatabdi-style Prototype 12559,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12560,RailNexus Express 12560,Express,EXPRESS,KSR Bengaluru,New Delhi
+12561,RailNexus Superfast 12561,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12562,RailNexus Intercity 12562,Intercity,EXPRESS,Mysuru,Belagavi
+12563,RailNexus Vande Bharat 12563,Vande Bharat,PREMIUM,Pune,Mysuru
+12564,RailNexus Shatabdi-style Prototype 12564,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12565,RailNexus Express 12565,Express,EXPRESS,New Delhi,Hyderabad
+12566,RailNexus Superfast 12566,Superfast,EXPRESS,Howrah,Secunderabad
+12567,RailNexus Intercity 12567,Intercity,EXPRESS,Mumbai,Gadag
+12568,RailNexus Vande Bharat 12568,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12569,RailNexus Shatabdi-style Prototype 12569,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12570,RailNexus Express 12570,Express,EXPRESS,KSR Bengaluru,New Delhi
+12571,RailNexus Superfast 12571,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12572,RailNexus Intercity 12572,Intercity,EXPRESS,Mysuru,Belagavi
+12573,RailNexus Vande Bharat 12573,Vande Bharat,PREMIUM,Pune,Mysuru
+12574,RailNexus Shatabdi-style Prototype 12574,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12575,RailNexus Express 12575,Express,EXPRESS,New Delhi,Hyderabad
+12576,RailNexus Superfast 12576,Superfast,EXPRESS,Howrah,Secunderabad
+12577,RailNexus Intercity 12577,Intercity,EXPRESS,Mumbai,Gadag
+12578,RailNexus Vande Bharat 12578,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12579,RailNexus Shatabdi-style Prototype 12579,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12580,RailNexus Express 12580,Express,EXPRESS,KSR Bengaluru,New Delhi
+12581,RailNexus Superfast 12581,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12582,RailNexus Intercity 12582,Intercity,EXPRESS,Mysuru,Belagavi
+12583,RailNexus Vande Bharat 12583,Vande Bharat,PREMIUM,Pune,Mysuru
+12584,RailNexus Shatabdi-style Prototype 12584,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12585,RailNexus Express 12585,Express,EXPRESS,New Delhi,Hyderabad
+12586,RailNexus Superfast 12586,Superfast,EXPRESS,Howrah,Secunderabad
+12587,RailNexus Intercity 12587,Intercity,EXPRESS,Mumbai,Gadag
+12588,RailNexus Vande Bharat 12588,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12589,RailNexus Shatabdi-style Prototype 12589,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12590,RailNexus Express 12590,Express,EXPRESS,KSR Bengaluru,New Delhi
+12591,RailNexus Superfast 12591,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12592,RailNexus Intercity 12592,Intercity,EXPRESS,Mysuru,Belagavi
+12593,RailNexus Vande Bharat 12593,Vande Bharat,PREMIUM,Pune,Mysuru
+12594,RailNexus Shatabdi-style Prototype 12594,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12595,RailNexus Express 12595,Express,EXPRESS,New Delhi,Hyderabad
+12596,RailNexus Superfast 12596,Superfast,EXPRESS,Howrah,Secunderabad
+12597,RailNexus Intercity 12597,Intercity,EXPRESS,Mumbai,Gadag
+12598,RailNexus Vande Bharat 12598,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12599,RailNexus Shatabdi-style Prototype 12599,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12600,RailNexus Express 12600,Express,EXPRESS,KSR Bengaluru,New Delhi
+12601,RailNexus Superfast 12601,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12602,RailNexus Intercity 12602,Intercity,EXPRESS,Mysuru,Belagavi
+12603,RailNexus Vande Bharat 12603,Vande Bharat,PREMIUM,Pune,Mysuru
+12604,RailNexus Shatabdi-style Prototype 12604,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12605,RailNexus Express 12605,Express,EXPRESS,New Delhi,Hyderabad
+12606,RailNexus Superfast 12606,Superfast,EXPRESS,Howrah,Secunderabad
+12607,RailNexus Intercity 12607,Intercity,EXPRESS,Mumbai,Gadag
+12608,RailNexus Vande Bharat 12608,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12609,RailNexus Shatabdi-style Prototype 12609,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12610,RailNexus Express 12610,Express,EXPRESS,KSR Bengaluru,New Delhi
+12611,RailNexus Superfast 12611,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12612,RailNexus Intercity 12612,Intercity,EXPRESS,Mysuru,Belagavi
+12613,RailNexus Vande Bharat 12613,Vande Bharat,PREMIUM,Pune,Mysuru
+12614,RailNexus Shatabdi-style Prototype 12614,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12615,RailNexus Express 12615,Express,EXPRESS,New Delhi,Hyderabad
+12616,RailNexus Superfast 12616,Superfast,EXPRESS,Howrah,Secunderabad
+12617,RailNexus Intercity 12617,Intercity,EXPRESS,Mumbai,Gadag
+12618,RailNexus Vande Bharat 12618,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12619,RailNexus Shatabdi-style Prototype 12619,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12620,RailNexus Express 12620,Express,EXPRESS,KSR Bengaluru,New Delhi
+12621,RailNexus Superfast 12621,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12622,RailNexus Intercity 12622,Intercity,EXPRESS,Mysuru,Belagavi
+12623,RailNexus Vande Bharat 12623,Vande Bharat,PREMIUM,Pune,Mysuru
+12624,RailNexus Shatabdi-style Prototype 12624,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12625,RailNexus Express 12625,Express,EXPRESS,New Delhi,Hyderabad
+12626,RailNexus Superfast 12626,Superfast,EXPRESS,Howrah,Secunderabad
+12627,Karnataka Express,Express,EXPRESS,KSR Bengaluru,New Delhi
+12628,RailNexus Vande Bharat 12628,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12629,RailNexus Shatabdi-style Prototype 12629,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12630,RailNexus Express 12630,Express,EXPRESS,KSR Bengaluru,New Delhi
+12631,RailNexus Superfast 12631,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12632,RailNexus Intercity 12632,Intercity,EXPRESS,Mysuru,Belagavi
+12633,RailNexus Vande Bharat 12633,Vande Bharat,PREMIUM,Pune,Mysuru
+12634,RailNexus Shatabdi-style Prototype 12634,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12635,RailNexus Express 12635,Express,EXPRESS,New Delhi,Hyderabad
+12636,RailNexus Superfast 12636,Superfast,EXPRESS,Howrah,Secunderabad
+12637,RailNexus Intercity 12637,Intercity,EXPRESS,Mumbai,Gadag
+12638,RailNexus Vande Bharat 12638,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12639,RailNexus Shatabdi-style Prototype 12639,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12640,RailNexus Express 12640,Express,EXPRESS,KSR Bengaluru,New Delhi
+12641,RailNexus Superfast 12641,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12642,RailNexus Intercity 12642,Intercity,EXPRESS,Mysuru,Belagavi
+12643,RailNexus Vande Bharat 12643,Vande Bharat,PREMIUM,Pune,Mysuru
+12644,RailNexus Shatabdi-style Prototype 12644,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12645,RailNexus Express 12645,Express,EXPRESS,New Delhi,Hyderabad
+12646,RailNexus Superfast 12646,Superfast,EXPRESS,Howrah,Secunderabad
+12647,RailNexus Intercity 12647,Intercity,EXPRESS,Mumbai,Gadag
+12648,RailNexus Vande Bharat 12648,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12649,RailNexus Shatabdi-style Prototype 12649,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12650,RailNexus Express 12650,Express,EXPRESS,KSR Bengaluru,New Delhi
+12651,RailNexus Superfast 12651,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12652,RailNexus Intercity 12652,Intercity,EXPRESS,Mysuru,Belagavi
+12653,RailNexus Vande Bharat 12653,Vande Bharat,PREMIUM,Pune,Mysuru
+12654,RailNexus Shatabdi-style Prototype 12654,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12655,RailNexus Express 12655,Express,EXPRESS,New Delhi,Hyderabad
+12656,RailNexus Superfast 12656,Superfast,EXPRESS,Howrah,Secunderabad
+12657,RailNexus Intercity 12657,Intercity,EXPRESS,Mumbai,Gadag
+12658,RailNexus Vande Bharat 12658,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12659,RailNexus Shatabdi-style Prototype 12659,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12660,RailNexus Express 12660,Express,EXPRESS,KSR Bengaluru,New Delhi
+12661,RailNexus Superfast 12661,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12662,RailNexus Intercity 12662,Intercity,EXPRESS,Mysuru,Belagavi
+12663,RailNexus Vande Bharat 12663,Vande Bharat,PREMIUM,Pune,Mysuru
+12664,RailNexus Shatabdi-style Prototype 12664,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12665,RailNexus Express 12665,Express,EXPRESS,New Delhi,Hyderabad
+12666,RailNexus Superfast 12666,Superfast,EXPRESS,Howrah,Secunderabad
+12667,RailNexus Intercity 12667,Intercity,EXPRESS,Mumbai,Gadag
+12668,RailNexus Vande Bharat 12668,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12669,RailNexus Shatabdi-style Prototype 12669,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12670,RailNexus Express 12670,Express,EXPRESS,KSR Bengaluru,New Delhi
+12671,RailNexus Superfast 12671,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12672,RailNexus Intercity 12672,Intercity,EXPRESS,Mysuru,Belagavi
+12673,RailNexus Vande Bharat 12673,Vande Bharat,PREMIUM,Pune,Mysuru
+12674,RailNexus Shatabdi-style Prototype 12674,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12675,RailNexus Express 12675,Express,EXPRESS,New Delhi,Hyderabad
+12676,RailNexus Superfast 12676,Superfast,EXPRESS,Howrah,Secunderabad
+12677,RailNexus Intercity 12677,Intercity,EXPRESS,Mumbai,Gadag
+12678,RailNexus Vande Bharat 12678,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12679,RailNexus Shatabdi-style Prototype 12679,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12680,RailNexus Express 12680,Express,EXPRESS,KSR Bengaluru,New Delhi
+12681,RailNexus Superfast 12681,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12682,RailNexus Intercity 12682,Intercity,EXPRESS,Mysuru,Belagavi
+12683,RailNexus Vande Bharat 12683,Vande Bharat,PREMIUM,Pune,Mysuru
+12684,RailNexus Shatabdi-style Prototype 12684,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12685,RailNexus Express 12685,Express,EXPRESS,New Delhi,Hyderabad
+12686,RailNexus Superfast 12686,Superfast,EXPRESS,Howrah,Secunderabad
+12687,RailNexus Intercity 12687,Intercity,EXPRESS,Mumbai,Gadag
+12688,RailNexus Vande Bharat 12688,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12689,RailNexus Shatabdi-style Prototype 12689,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12690,RailNexus Express 12690,Express,EXPRESS,KSR Bengaluru,New Delhi
+12691,RailNexus Superfast 12691,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12692,RailNexus Intercity 12692,Intercity,EXPRESS,Mysuru,Belagavi
+12693,RailNexus Vande Bharat 12693,Vande Bharat,PREMIUM,Pune,Mysuru
+12694,RailNexus Shatabdi-style Prototype 12694,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12695,RailNexus Express 12695,Express,EXPRESS,New Delhi,Hyderabad
+12696,RailNexus Superfast 12696,Superfast,EXPRESS,Howrah,Secunderabad
+12697,RailNexus Intercity 12697,Intercity,EXPRESS,Mumbai,Gadag
+12698,RailNexus Vande Bharat 12698,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12699,RailNexus Shatabdi-style Prototype 12699,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12700,RailNexus Express 12700,Express,EXPRESS,KSR Bengaluru,New Delhi
+12701,RailNexus Superfast 12701,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12702,RailNexus Intercity 12702,Intercity,EXPRESS,Mysuru,Belagavi
+12703,RailNexus Vande Bharat 12703,Vande Bharat,PREMIUM,Pune,Mysuru
+12704,RailNexus Shatabdi-style Prototype 12704,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12705,RailNexus Express 12705,Express,EXPRESS,New Delhi,Hyderabad
+12706,RailNexus Superfast 12706,Superfast,EXPRESS,Howrah,Secunderabad
+12707,RailNexus Intercity 12707,Intercity,EXPRESS,Mumbai,Gadag
+12708,RailNexus Vande Bharat 12708,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12709,RailNexus Shatabdi-style Prototype 12709,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12710,RailNexus Express 12710,Express,EXPRESS,KSR Bengaluru,New Delhi
+12711,RailNexus Superfast 12711,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12712,RailNexus Intercity 12712,Intercity,EXPRESS,Mysuru,Belagavi
+12713,RailNexus Vande Bharat 12713,Vande Bharat,PREMIUM,Pune,Mysuru
+12714,RailNexus Shatabdi-style Prototype 12714,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12715,RailNexus Express 12715,Express,EXPRESS,New Delhi,Hyderabad
+12716,RailNexus Superfast 12716,Superfast,EXPRESS,Howrah,Secunderabad
+12717,RailNexus Intercity 12717,Intercity,EXPRESS,Mumbai,Gadag
+12718,RailNexus Vande Bharat 12718,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12719,RailNexus Shatabdi-style Prototype 12719,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12720,RailNexus Express 12720,Express,EXPRESS,KSR Bengaluru,New Delhi
+12721,RailNexus Superfast 12721,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12722,RailNexus Intercity 12722,Intercity,EXPRESS,Mysuru,Belagavi
+12723,RailNexus Vande Bharat 12723,Vande Bharat,PREMIUM,Pune,Mysuru
+12724,RailNexus Shatabdi-style Prototype 12724,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12725,RailNexus Express 12725,Express,EXPRESS,New Delhi,Hyderabad
+12726,RailNexus Superfast 12726,Superfast,EXPRESS,Howrah,Secunderabad
+12727,RailNexus Intercity 12727,Intercity,EXPRESS,Mumbai,Gadag
+12728,RailNexus Vande Bharat 12728,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12729,RailNexus Shatabdi-style Prototype 12729,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12730,RailNexus Express 12730,Express,EXPRESS,KSR Bengaluru,New Delhi
+12731,RailNexus Superfast 12731,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12732,RailNexus Intercity 12732,Intercity,EXPRESS,Mysuru,Belagavi
+12733,RailNexus Vande Bharat 12733,Vande Bharat,PREMIUM,Pune,Mysuru
+12734,RailNexus Shatabdi-style Prototype 12734,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12735,RailNexus Express 12735,Express,EXPRESS,New Delhi,Hyderabad
+12736,RailNexus Superfast 12736,Superfast,EXPRESS,Howrah,Secunderabad
+12737,RailNexus Intercity 12737,Intercity,EXPRESS,Mumbai,Gadag
+12738,RailNexus Vande Bharat 12738,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12739,RailNexus Shatabdi-style Prototype 12739,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12740,RailNexus Express 12740,Express,EXPRESS,KSR Bengaluru,New Delhi
+12741,RailNexus Superfast 12741,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12742,RailNexus Intercity 12742,Intercity,EXPRESS,Mysuru,Belagavi
+12743,RailNexus Vande Bharat 12743,Vande Bharat,PREMIUM,Pune,Mysuru
+12744,RailNexus Shatabdi-style Prototype 12744,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12745,RailNexus Express 12745,Express,EXPRESS,New Delhi,Hyderabad
+12746,RailNexus Superfast 12746,Superfast,EXPRESS,Howrah,Secunderabad
+12747,RailNexus Intercity 12747,Intercity,EXPRESS,Mumbai,Gadag
+12748,RailNexus Vande Bharat 12748,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12749,RailNexus Shatabdi-style Prototype 12749,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12750,RailNexus Express 12750,Express,EXPRESS,KSR Bengaluru,New Delhi
+12751,RailNexus Superfast 12751,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12752,RailNexus Intercity 12752,Intercity,EXPRESS,Mysuru,Belagavi
+12753,RailNexus Vande Bharat 12753,Vande Bharat,PREMIUM,Pune,Mysuru
+12754,RailNexus Shatabdi-style Prototype 12754,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12755,RailNexus Express 12755,Express,EXPRESS,New Delhi,Hyderabad
+12756,RailNexus Superfast 12756,Superfast,EXPRESS,Howrah,Secunderabad
+12757,RailNexus Intercity 12757,Intercity,EXPRESS,Mumbai,Gadag
+12758,RailNexus Vande Bharat 12758,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12759,RailNexus Shatabdi-style Prototype 12759,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12760,RailNexus Express 12760,Express,EXPRESS,KSR Bengaluru,New Delhi
+12761,RailNexus Superfast 12761,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12762,RailNexus Intercity 12762,Intercity,EXPRESS,Mysuru,Belagavi
+12763,RailNexus Vande Bharat 12763,Vande Bharat,PREMIUM,Pune,Mysuru
+12764,RailNexus Shatabdi-style Prototype 12764,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12765,RailNexus Express 12765,Express,EXPRESS,New Delhi,Hyderabad
+12766,RailNexus Superfast 12766,Superfast,EXPRESS,Howrah,Secunderabad
+12767,RailNexus Intercity 12767,Intercity,EXPRESS,Mumbai,Gadag
+12768,RailNexus Vande Bharat 12768,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12769,RailNexus Shatabdi-style Prototype 12769,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12770,RailNexus Express 12770,Express,EXPRESS,KSR Bengaluru,New Delhi
+12771,RailNexus Superfast 12771,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12772,RailNexus Intercity 12772,Intercity,EXPRESS,Mysuru,Belagavi
+12773,RailNexus Vande Bharat 12773,Vande Bharat,PREMIUM,Pune,Mysuru
+12774,RailNexus Shatabdi-style Prototype 12774,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12775,RailNexus Express 12775,Express,EXPRESS,New Delhi,Hyderabad
+12776,RailNexus Superfast 12776,Superfast,EXPRESS,Howrah,Secunderabad
+12777,RailNexus Intercity 12777,Intercity,EXPRESS,Mumbai,Gadag
+12778,RailNexus Vande Bharat 12778,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12779,RailNexus Shatabdi-style Prototype 12779,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12780,RailNexus Express 12780,Express,EXPRESS,KSR Bengaluru,New Delhi
+12781,RailNexus Superfast 12781,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12782,RailNexus Intercity 12782,Intercity,EXPRESS,Mysuru,Belagavi
+12783,RailNexus Vande Bharat 12783,Vande Bharat,PREMIUM,Pune,Mysuru
+12784,RailNexus Shatabdi-style Prototype 12784,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12785,RailNexus Express 12785,Express,EXPRESS,New Delhi,Hyderabad
+12786,RailNexus Superfast 12786,Superfast,EXPRESS,Howrah,Secunderabad
+12787,RailNexus Intercity 12787,Intercity,EXPRESS,Mumbai,Gadag
+12788,RailNexus Vande Bharat 12788,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12789,RailNexus Shatabdi-style Prototype 12789,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12790,RailNexus Express 12790,Express,EXPRESS,KSR Bengaluru,New Delhi
+12791,RailNexus Superfast 12791,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12792,RailNexus Intercity 12792,Intercity,EXPRESS,Mysuru,Belagavi
+12793,RailNexus Vande Bharat 12793,Vande Bharat,PREMIUM,Pune,Mysuru
+12794,RailNexus Shatabdi-style Prototype 12794,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12795,RailNexus Express 12795,Express,EXPRESS,New Delhi,Hyderabad
+12796,RailNexus Superfast 12796,Superfast,EXPRESS,Howrah,Secunderabad
+12797,RailNexus Intercity 12797,Intercity,EXPRESS,Mumbai,Gadag
+12798,RailNexus Vande Bharat 12798,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12799,RailNexus Shatabdi-style Prototype 12799,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12800,RailNexus Express 12800,Express,EXPRESS,KSR Bengaluru,New Delhi
+12801,RailNexus Superfast 12801,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12802,RailNexus Intercity 12802,Intercity,EXPRESS,Mysuru,Belagavi
+12803,RailNexus Vande Bharat 12803,Vande Bharat,PREMIUM,Pune,Mysuru
+12804,RailNexus Shatabdi-style Prototype 12804,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12805,RailNexus Express 12805,Express,EXPRESS,New Delhi,Hyderabad
+12806,RailNexus Superfast 12806,Superfast,EXPRESS,Howrah,Secunderabad
+12807,RailNexus Intercity 12807,Intercity,EXPRESS,Mumbai,Gadag
+12808,RailNexus Vande Bharat 12808,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12809,RailNexus Shatabdi-style Prototype 12809,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12810,RailNexus Express 12810,Express,EXPRESS,KSR Bengaluru,New Delhi
+12811,RailNexus Superfast 12811,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12812,RailNexus Intercity 12812,Intercity,EXPRESS,Mysuru,Belagavi
+12813,RailNexus Vande Bharat 12813,Vande Bharat,PREMIUM,Pune,Mysuru
+12814,RailNexus Shatabdi-style Prototype 12814,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12815,RailNexus Express 12815,Express,EXPRESS,New Delhi,Hyderabad
+12816,RailNexus Superfast 12816,Superfast,EXPRESS,Howrah,Secunderabad
+12817,RailNexus Intercity 12817,Intercity,EXPRESS,Mumbai,Gadag
+12818,RailNexus Vande Bharat 12818,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12819,RailNexus Shatabdi-style Prototype 12819,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12820,RailNexus Express 12820,Express,EXPRESS,KSR Bengaluru,New Delhi
+12821,RailNexus Superfast 12821,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12822,RailNexus Intercity 12822,Intercity,EXPRESS,Mysuru,Belagavi
+12823,RailNexus Vande Bharat 12823,Vande Bharat,PREMIUM,Pune,Mysuru
+12824,RailNexus Shatabdi-style Prototype 12824,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12825,RailNexus Express 12825,Express,EXPRESS,New Delhi,Hyderabad
+12826,RailNexus Superfast 12826,Superfast,EXPRESS,Howrah,Secunderabad
+12827,RailNexus Intercity 12827,Intercity,EXPRESS,Mumbai,Gadag
+12828,RailNexus Vande Bharat 12828,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12829,RailNexus Shatabdi-style Prototype 12829,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12830,RailNexus Express 12830,Express,EXPRESS,KSR Bengaluru,New Delhi
+12831,RailNexus Superfast 12831,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12832,RailNexus Intercity 12832,Intercity,EXPRESS,Mysuru,Belagavi
+12833,RailNexus Vande Bharat 12833,Vande Bharat,PREMIUM,Pune,Mysuru
+12834,RailNexus Shatabdi-style Prototype 12834,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12835,RailNexus Express 12835,Express,EXPRESS,New Delhi,Hyderabad
+12836,RailNexus Superfast 12836,Superfast,EXPRESS,Howrah,Secunderabad
+12837,RailNexus Intercity 12837,Intercity,EXPRESS,Mumbai,Gadag
+12838,RailNexus Vande Bharat 12838,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12839,RailNexus Shatabdi-style Prototype 12839,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12840,RailNexus Express 12840,Express,EXPRESS,KSR Bengaluru,New Delhi
+12841,RailNexus Superfast 12841,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12842,RailNexus Intercity 12842,Intercity,EXPRESS,Mysuru,Belagavi
+12843,RailNexus Vande Bharat 12843,Vande Bharat,PREMIUM,Pune,Mysuru
+12844,RailNexus Shatabdi-style Prototype 12844,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12845,RailNexus Express 12845,Express,EXPRESS,New Delhi,Hyderabad
+12846,RailNexus Superfast 12846,Superfast,EXPRESS,Howrah,Secunderabad
+12847,RailNexus Intercity 12847,Intercity,EXPRESS,Mumbai,Gadag
+12848,RailNexus Vande Bharat 12848,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12849,RailNexus Shatabdi-style Prototype 12849,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12850,RailNexus Express 12850,Express,EXPRESS,KSR Bengaluru,New Delhi
+12851,RailNexus Superfast 12851,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12852,RailNexus Intercity 12852,Intercity,EXPRESS,Mysuru,Belagavi
+12853,RailNexus Vande Bharat 12853,Vande Bharat,PREMIUM,Pune,Mysuru
+12854,RailNexus Shatabdi-style Prototype 12854,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12855,RailNexus Express 12855,Express,EXPRESS,New Delhi,Hyderabad
+12856,RailNexus Superfast 12856,Superfast,EXPRESS,Howrah,Secunderabad
+12857,RailNexus Intercity 12857,Intercity,EXPRESS,Mumbai,Gadag
+12858,RailNexus Vande Bharat 12858,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12859,RailNexus Shatabdi-style Prototype 12859,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12860,RailNexus Express 12860,Express,EXPRESS,KSR Bengaluru,New Delhi
+12861,RailNexus Superfast 12861,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12862,RailNexus Intercity 12862,Intercity,EXPRESS,Mysuru,Belagavi
+12863,RailNexus Vande Bharat 12863,Vande Bharat,PREMIUM,Pune,Mysuru
+12864,RailNexus Shatabdi-style Prototype 12864,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12865,RailNexus Express 12865,Express,EXPRESS,New Delhi,Hyderabad
+12866,RailNexus Superfast 12866,Superfast,EXPRESS,Howrah,Secunderabad
+12867,RailNexus Intercity 12867,Intercity,EXPRESS,Mumbai,Gadag
+12868,RailNexus Vande Bharat 12868,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12869,RailNexus Shatabdi-style Prototype 12869,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12870,RailNexus Express 12870,Express,EXPRESS,KSR Bengaluru,New Delhi
+12871,RailNexus Superfast 12871,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12872,RailNexus Intercity 12872,Intercity,EXPRESS,Mysuru,Belagavi
+12873,RailNexus Vande Bharat 12873,Vande Bharat,PREMIUM,Pune,Mysuru
+12874,RailNexus Shatabdi-style Prototype 12874,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12875,RailNexus Express 12875,Express,EXPRESS,New Delhi,Hyderabad
+12876,RailNexus Superfast 12876,Superfast,EXPRESS,Howrah,Secunderabad
+12877,RailNexus Intercity 12877,Intercity,EXPRESS,Mumbai,Gadag
+12878,RailNexus Vande Bharat 12878,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12879,RailNexus Shatabdi-style Prototype 12879,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12880,RailNexus Express 12880,Express,EXPRESS,KSR Bengaluru,New Delhi
+12881,RailNexus Superfast 12881,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12882,RailNexus Intercity 12882,Intercity,EXPRESS,Mysuru,Belagavi
+12883,RailNexus Vande Bharat 12883,Vande Bharat,PREMIUM,Pune,Mysuru
+12884,RailNexus Shatabdi-style Prototype 12884,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12885,RailNexus Express 12885,Express,EXPRESS,New Delhi,Hyderabad
+12886,RailNexus Superfast 12886,Superfast,EXPRESS,Howrah,Secunderabad
+12887,RailNexus Intercity 12887,Intercity,EXPRESS,Mumbai,Gadag
+12888,RailNexus Vande Bharat 12888,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12889,RailNexus Shatabdi-style Prototype 12889,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12890,RailNexus Express 12890,Express,EXPRESS,KSR Bengaluru,New Delhi
+12891,RailNexus Superfast 12891,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12892,RailNexus Intercity 12892,Intercity,EXPRESS,Mysuru,Belagavi
+12893,RailNexus Vande Bharat 12893,Vande Bharat,PREMIUM,Pune,Mysuru
+12894,RailNexus Shatabdi-style Prototype 12894,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12895,RailNexus Express 12895,Express,EXPRESS,New Delhi,Hyderabad
+12896,RailNexus Superfast 12896,Superfast,EXPRESS,Howrah,Secunderabad
+12897,RailNexus Intercity 12897,Intercity,EXPRESS,Mumbai,Gadag
+12898,RailNexus Vande Bharat 12898,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12899,RailNexus Shatabdi-style Prototype 12899,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12900,RailNexus Express 12900,Express,EXPRESS,KSR Bengaluru,New Delhi
+12901,RailNexus Superfast 12901,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12902,RailNexus Intercity 12902,Intercity,EXPRESS,Mysuru,Belagavi
+12903,RailNexus Vande Bharat 12903,Vande Bharat,PREMIUM,Pune,Mysuru
+12904,RailNexus Shatabdi-style Prototype 12904,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12905,RailNexus Express 12905,Express,EXPRESS,New Delhi,Hyderabad
+12906,RailNexus Superfast 12906,Superfast,EXPRESS,Howrah,Secunderabad
+12907,RailNexus Intercity 12907,Intercity,EXPRESS,Mumbai,Gadag
+12908,RailNexus Vande Bharat 12908,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12909,RailNexus Shatabdi-style Prototype 12909,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12910,RailNexus Express 12910,Express,EXPRESS,KSR Bengaluru,New Delhi
+12911,RailNexus Superfast 12911,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12912,RailNexus Intercity 12912,Intercity,EXPRESS,Mysuru,Belagavi
+12913,RailNexus Vande Bharat 12913,Vande Bharat,PREMIUM,Pune,Mysuru
+12914,RailNexus Shatabdi-style Prototype 12914,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12915,RailNexus Express 12915,Express,EXPRESS,New Delhi,Hyderabad
+12916,RailNexus Superfast 12916,Superfast,EXPRESS,Howrah,Secunderabad
+12917,RailNexus Intercity 12917,Intercity,EXPRESS,Mumbai,Gadag
+12918,RailNexus Vande Bharat 12918,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12919,RailNexus Shatabdi-style Prototype 12919,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12920,RailNexus Express 12920,Express,EXPRESS,KSR Bengaluru,New Delhi
+12921,RailNexus Superfast 12921,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12922,RailNexus Intercity 12922,Intercity,EXPRESS,Mysuru,Belagavi
+12923,RailNexus Vande Bharat 12923,Vande Bharat,PREMIUM,Pune,Mysuru
+12924,RailNexus Shatabdi-style Prototype 12924,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12925,RailNexus Express 12925,Express,EXPRESS,New Delhi,Hyderabad
+12926,RailNexus Superfast 12926,Superfast,EXPRESS,Howrah,Secunderabad
+12927,RailNexus Intercity 12927,Intercity,EXPRESS,Mumbai,Gadag
+12928,RailNexus Vande Bharat 12928,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12929,RailNexus Shatabdi-style Prototype 12929,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12930,RailNexus Express 12930,Express,EXPRESS,KSR Bengaluru,New Delhi
+12931,RailNexus Superfast 12931,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12932,RailNexus Intercity 12932,Intercity,EXPRESS,Mysuru,Belagavi
+12933,RailNexus Vande Bharat 12933,Vande Bharat,PREMIUM,Pune,Mysuru
+12934,RailNexus Shatabdi-style Prototype 12934,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12935,RailNexus Express 12935,Express,EXPRESS,New Delhi,Hyderabad
+12936,RailNexus Superfast 12936,Superfast,EXPRESS,Howrah,Secunderabad
+12937,RailNexus Intercity 12937,Intercity,EXPRESS,Mumbai,Gadag
+12938,RailNexus Vande Bharat 12938,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12939,RailNexus Shatabdi-style Prototype 12939,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12940,RailNexus Express 12940,Express,EXPRESS,KSR Bengaluru,New Delhi
+12941,RailNexus Superfast 12941,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12942,RailNexus Intercity 12942,Intercity,EXPRESS,Mysuru,Belagavi
+12943,RailNexus Vande Bharat 12943,Vande Bharat,PREMIUM,Pune,Mysuru
+12944,RailNexus Shatabdi-style Prototype 12944,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12945,RailNexus Express 12945,Express,EXPRESS,New Delhi,Hyderabad
+12946,RailNexus Superfast 12946,Superfast,EXPRESS,Howrah,Secunderabad
+12947,RailNexus Intercity 12947,Intercity,EXPRESS,Mumbai,Gadag
+12948,RailNexus Vande Bharat 12948,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12949,RailNexus Shatabdi-style Prototype 12949,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12950,RailNexus Express 12950,Express,EXPRESS,KSR Bengaluru,New Delhi
+12951,RailNexus Superfast 12951,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12952,RailNexus Intercity 12952,Intercity,EXPRESS,Mysuru,Belagavi
+12953,RailNexus Vande Bharat 12953,Vande Bharat,PREMIUM,Pune,Mysuru
+12954,RailNexus Shatabdi-style Prototype 12954,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12955,RailNexus Express 12955,Express,EXPRESS,New Delhi,Hyderabad
+12956,RailNexus Superfast 12956,Superfast,EXPRESS,Howrah,Secunderabad
+12957,RailNexus Intercity 12957,Intercity,EXPRESS,Mumbai,Gadag
+12958,RailNexus Vande Bharat 12958,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12959,RailNexus Shatabdi-style Prototype 12959,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12960,RailNexus Express 12960,Express,EXPRESS,KSR Bengaluru,New Delhi
+12961,RailNexus Superfast 12961,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12962,RailNexus Intercity 12962,Intercity,EXPRESS,Mysuru,Belagavi
+12963,RailNexus Vande Bharat 12963,Vande Bharat,PREMIUM,Pune,Mysuru
+12964,RailNexus Shatabdi-style Prototype 12964,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12965,RailNexus Express 12965,Express,EXPRESS,New Delhi,Hyderabad
+12966,RailNexus Superfast 12966,Superfast,EXPRESS,Howrah,Secunderabad
+12967,RailNexus Intercity 12967,Intercity,EXPRESS,Mumbai,Gadag
+12968,RailNexus Vande Bharat 12968,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12969,RailNexus Shatabdi-style Prototype 12969,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12970,RailNexus Express 12970,Express,EXPRESS,KSR Bengaluru,New Delhi
+12971,RailNexus Superfast 12971,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12972,RailNexus Intercity 12972,Intercity,EXPRESS,Mysuru,Belagavi
+12973,RailNexus Vande Bharat 12973,Vande Bharat,PREMIUM,Pune,Mysuru
+12974,RailNexus Shatabdi-style Prototype 12974,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12975,RailNexus Express 12975,Express,EXPRESS,New Delhi,Hyderabad
+12976,RailNexus Superfast 12976,Superfast,EXPRESS,Howrah,Secunderabad
+12977,RailNexus Intercity 12977,Intercity,EXPRESS,Mumbai,Gadag
+12978,RailNexus Vande Bharat 12978,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12979,RailNexus Shatabdi-style Prototype 12979,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12980,RailNexus Express 12980,Express,EXPRESS,KSR Bengaluru,New Delhi
+12981,RailNexus Superfast 12981,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12982,RailNexus Intercity 12982,Intercity,EXPRESS,Mysuru,Belagavi
+12983,RailNexus Vande Bharat 12983,Vande Bharat,PREMIUM,Pune,Mysuru
+12984,RailNexus Shatabdi-style Prototype 12984,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12985,RailNexus Express 12985,Express,EXPRESS,New Delhi,Hyderabad
+12986,RailNexus Superfast 12986,Superfast,EXPRESS,Howrah,Secunderabad
+12987,RailNexus Intercity 12987,Intercity,EXPRESS,Mumbai,Gadag
+12988,RailNexus Vande Bharat 12988,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12989,RailNexus Shatabdi-style Prototype 12989,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+12990,RailNexus Express 12990,Express,EXPRESS,KSR Bengaluru,New Delhi
+12991,RailNexus Superfast 12991,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+12992,RailNexus Intercity 12992,Intercity,EXPRESS,Mysuru,Belagavi
+12993,RailNexus Vande Bharat 12993,Vande Bharat,PREMIUM,Pune,Mysuru
+12994,RailNexus Shatabdi-style Prototype 12994,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+12995,RailNexus Express 12995,Express,EXPRESS,New Delhi,Hyderabad
+12996,RailNexus Superfast 12996,Superfast,EXPRESS,Howrah,Secunderabad
+12997,RailNexus Intercity 12997,Intercity,EXPRESS,Mumbai,Gadag
+12998,RailNexus Vande Bharat 12998,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+12999,RailNexus Shatabdi-style Prototype 12999,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13000,RailNexus Express 13000,Express,EXPRESS,KSR Bengaluru,New Delhi
+13001,RailNexus Superfast 13001,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13002,RailNexus Intercity 13002,Intercity,EXPRESS,Mysuru,Belagavi
+13003,RailNexus Vande Bharat 13003,Vande Bharat,PREMIUM,Pune,Mysuru
+13004,RailNexus Shatabdi-style Prototype 13004,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13005,RailNexus Express 13005,Express,EXPRESS,New Delhi,Hyderabad
+13006,RailNexus Superfast 13006,Superfast,EXPRESS,Howrah,Secunderabad
+13007,RailNexus Intercity 13007,Intercity,EXPRESS,Mumbai,Gadag
+13008,RailNexus Vande Bharat 13008,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13009,RailNexus Shatabdi-style Prototype 13009,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13010,RailNexus Express 13010,Express,EXPRESS,KSR Bengaluru,New Delhi
+13011,RailNexus Superfast 13011,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13012,RailNexus Intercity 13012,Intercity,EXPRESS,Mysuru,Belagavi
+13013,RailNexus Vande Bharat 13013,Vande Bharat,PREMIUM,Pune,Mysuru
+13014,RailNexus Shatabdi-style Prototype 13014,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13015,RailNexus Express 13015,Express,EXPRESS,New Delhi,Hyderabad
+13016,RailNexus Superfast 13016,Superfast,EXPRESS,Howrah,Secunderabad
+13017,RailNexus Intercity 13017,Intercity,EXPRESS,Mumbai,Gadag
+13018,RailNexus Vande Bharat 13018,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13019,RailNexus Shatabdi-style Prototype 13019,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13020,RailNexus Express 13020,Express,EXPRESS,KSR Bengaluru,New Delhi
+13021,RailNexus Superfast 13021,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13022,RailNexus Intercity 13022,Intercity,EXPRESS,Mysuru,Belagavi
+13023,RailNexus Vande Bharat 13023,Vande Bharat,PREMIUM,Pune,Mysuru
+13024,RailNexus Shatabdi-style Prototype 13024,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13025,RailNexus Express 13025,Express,EXPRESS,New Delhi,Hyderabad
+13026,RailNexus Superfast 13026,Superfast,EXPRESS,Howrah,Secunderabad
+13027,RailNexus Intercity 13027,Intercity,EXPRESS,Mumbai,Gadag
+13028,RailNexus Vande Bharat 13028,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13029,RailNexus Shatabdi-style Prototype 13029,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13030,RailNexus Express 13030,Express,EXPRESS,KSR Bengaluru,New Delhi
+13031,RailNexus Superfast 13031,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13032,RailNexus Intercity 13032,Intercity,EXPRESS,Mysuru,Belagavi
+13033,RailNexus Vande Bharat 13033,Vande Bharat,PREMIUM,Pune,Mysuru
+13034,RailNexus Shatabdi-style Prototype 13034,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13035,RailNexus Express 13035,Express,EXPRESS,New Delhi,Hyderabad
+13036,RailNexus Superfast 13036,Superfast,EXPRESS,Howrah,Secunderabad
+13037,RailNexus Intercity 13037,Intercity,EXPRESS,Mumbai,Gadag
+13038,RailNexus Vande Bharat 13038,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13039,RailNexus Shatabdi-style Prototype 13039,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13040,RailNexus Express 13040,Express,EXPRESS,KSR Bengaluru,New Delhi
+13041,RailNexus Superfast 13041,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13042,RailNexus Intercity 13042,Intercity,EXPRESS,Mysuru,Belagavi
+13043,RailNexus Vande Bharat 13043,Vande Bharat,PREMIUM,Pune,Mysuru
+13044,RailNexus Shatabdi-style Prototype 13044,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13045,RailNexus Express 13045,Express,EXPRESS,New Delhi,Hyderabad
+13046,RailNexus Superfast 13046,Superfast,EXPRESS,Howrah,Secunderabad
+13047,RailNexus Intercity 13047,Intercity,EXPRESS,Mumbai,Gadag
+13048,RailNexus Vande Bharat 13048,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13049,RailNexus Shatabdi-style Prototype 13049,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13050,RailNexus Express 13050,Express,EXPRESS,KSR Bengaluru,New Delhi
+13051,RailNexus Superfast 13051,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13052,RailNexus Intercity 13052,Intercity,EXPRESS,Mysuru,Belagavi
+13053,RailNexus Vande Bharat 13053,Vande Bharat,PREMIUM,Pune,Mysuru
+13054,RailNexus Shatabdi-style Prototype 13054,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13055,RailNexus Express 13055,Express,EXPRESS,New Delhi,Hyderabad
+13056,RailNexus Superfast 13056,Superfast,EXPRESS,Howrah,Secunderabad
+13057,RailNexus Intercity 13057,Intercity,EXPRESS,Mumbai,Gadag
+13058,RailNexus Vande Bharat 13058,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13059,RailNexus Shatabdi-style Prototype 13059,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13060,RailNexus Express 13060,Express,EXPRESS,KSR Bengaluru,New Delhi
+13061,RailNexus Superfast 13061,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13062,RailNexus Intercity 13062,Intercity,EXPRESS,Mysuru,Belagavi
+13063,RailNexus Vande Bharat 13063,Vande Bharat,PREMIUM,Pune,Mysuru
+13064,RailNexus Shatabdi-style Prototype 13064,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13065,RailNexus Express 13065,Express,EXPRESS,New Delhi,Hyderabad
+13066,RailNexus Superfast 13066,Superfast,EXPRESS,Howrah,Secunderabad
+13067,RailNexus Intercity 13067,Intercity,EXPRESS,Mumbai,Gadag
+13068,RailNexus Vande Bharat 13068,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13069,RailNexus Shatabdi-style Prototype 13069,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13070,RailNexus Express 13070,Express,EXPRESS,KSR Bengaluru,New Delhi
+13071,RailNexus Superfast 13071,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13072,RailNexus Intercity 13072,Intercity,EXPRESS,Mysuru,Belagavi
+13073,RailNexus Vande Bharat 13073,Vande Bharat,PREMIUM,Pune,Mysuru
+13074,RailNexus Shatabdi-style Prototype 13074,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13075,RailNexus Express 13075,Express,EXPRESS,New Delhi,Hyderabad
+13076,RailNexus Superfast 13076,Superfast,EXPRESS,Howrah,Secunderabad
+13077,RailNexus Intercity 13077,Intercity,EXPRESS,Mumbai,Gadag
+13078,RailNexus Vande Bharat 13078,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13079,RailNexus Shatabdi-style Prototype 13079,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13080,RailNexus Express 13080,Express,EXPRESS,KSR Bengaluru,New Delhi
+13081,RailNexus Superfast 13081,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13082,RailNexus Intercity 13082,Intercity,EXPRESS,Mysuru,Belagavi
+13083,RailNexus Vande Bharat 13083,Vande Bharat,PREMIUM,Pune,Mysuru
+13084,RailNexus Shatabdi-style Prototype 13084,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13085,RailNexus Express 13085,Express,EXPRESS,New Delhi,Hyderabad
+13086,RailNexus Superfast 13086,Superfast,EXPRESS,Howrah,Secunderabad
+13087,RailNexus Intercity 13087,Intercity,EXPRESS,Mumbai,Gadag
+13088,RailNexus Vande Bharat 13088,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13089,RailNexus Shatabdi-style Prototype 13089,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13090,RailNexus Express 13090,Express,EXPRESS,KSR Bengaluru,New Delhi
+13091,RailNexus Superfast 13091,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13092,RailNexus Intercity 13092,Intercity,EXPRESS,Mysuru,Belagavi
+13093,RailNexus Vande Bharat 13093,Vande Bharat,PREMIUM,Pune,Mysuru
+13094,RailNexus Shatabdi-style Prototype 13094,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13095,RailNexus Express 13095,Express,EXPRESS,New Delhi,Hyderabad
+13096,RailNexus Superfast 13096,Superfast,EXPRESS,Howrah,Secunderabad
+13097,RailNexus Intercity 13097,Intercity,EXPRESS,Mumbai,Gadag
+13098,RailNexus Vande Bharat 13098,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13099,RailNexus Shatabdi-style Prototype 13099,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13100,RailNexus Express 13100,Express,EXPRESS,KSR Bengaluru,New Delhi
+13101,RailNexus Superfast 13101,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13102,RailNexus Intercity 13102,Intercity,EXPRESS,Mysuru,Belagavi
+13103,RailNexus Vande Bharat 13103,Vande Bharat,PREMIUM,Pune,Mysuru
+13104,RailNexus Shatabdi-style Prototype 13104,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13105,RailNexus Express 13105,Express,EXPRESS,New Delhi,Hyderabad
+13106,RailNexus Superfast 13106,Superfast,EXPRESS,Howrah,Secunderabad
+13107,RailNexus Intercity 13107,Intercity,EXPRESS,Mumbai,Gadag
+13108,RailNexus Vande Bharat 13108,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13109,RailNexus Shatabdi-style Prototype 13109,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13110,RailNexus Express 13110,Express,EXPRESS,KSR Bengaluru,New Delhi
+13111,RailNexus Superfast 13111,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13112,RailNexus Intercity 13112,Intercity,EXPRESS,Mysuru,Belagavi
+13113,RailNexus Vande Bharat 13113,Vande Bharat,PREMIUM,Pune,Mysuru
+13114,RailNexus Shatabdi-style Prototype 13114,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13115,RailNexus Express 13115,Express,EXPRESS,New Delhi,Hyderabad
+13116,RailNexus Superfast 13116,Superfast,EXPRESS,Howrah,Secunderabad
+13117,RailNexus Intercity 13117,Intercity,EXPRESS,Mumbai,Gadag
+13118,RailNexus Vande Bharat 13118,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13119,RailNexus Shatabdi-style Prototype 13119,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13120,RailNexus Express 13120,Express,EXPRESS,KSR Bengaluru,New Delhi
+13121,RailNexus Superfast 13121,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13122,RailNexus Intercity 13122,Intercity,EXPRESS,Mysuru,Belagavi
+13123,RailNexus Vande Bharat 13123,Vande Bharat,PREMIUM,Pune,Mysuru
+13124,RailNexus Shatabdi-style Prototype 13124,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13125,RailNexus Express 13125,Express,EXPRESS,New Delhi,Hyderabad
+13126,RailNexus Superfast 13126,Superfast,EXPRESS,Howrah,Secunderabad
+13127,RailNexus Intercity 13127,Intercity,EXPRESS,Mumbai,Gadag
+13128,RailNexus Vande Bharat 13128,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13129,RailNexus Shatabdi-style Prototype 13129,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13130,RailNexus Express 13130,Express,EXPRESS,KSR Bengaluru,New Delhi
+13131,RailNexus Superfast 13131,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13132,RailNexus Intercity 13132,Intercity,EXPRESS,Mysuru,Belagavi
+13133,RailNexus Vande Bharat 13133,Vande Bharat,PREMIUM,Pune,Mysuru
+13134,RailNexus Shatabdi-style Prototype 13134,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13135,RailNexus Express 13135,Express,EXPRESS,New Delhi,Hyderabad
+13136,RailNexus Superfast 13136,Superfast,EXPRESS,Howrah,Secunderabad
+13137,RailNexus Intercity 13137,Intercity,EXPRESS,Mumbai,Gadag
+13138,RailNexus Vande Bharat 13138,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13139,RailNexus Shatabdi-style Prototype 13139,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13140,RailNexus Express 13140,Express,EXPRESS,KSR Bengaluru,New Delhi
+13141,RailNexus Superfast 13141,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13142,RailNexus Intercity 13142,Intercity,EXPRESS,Mysuru,Belagavi
+13143,RailNexus Vande Bharat 13143,Vande Bharat,PREMIUM,Pune,Mysuru
+13144,RailNexus Shatabdi-style Prototype 13144,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13145,RailNexus Express 13145,Express,EXPRESS,New Delhi,Hyderabad
+13146,RailNexus Superfast 13146,Superfast,EXPRESS,Howrah,Secunderabad
+13147,RailNexus Intercity 13147,Intercity,EXPRESS,Mumbai,Gadag
+13148,RailNexus Vande Bharat 13148,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13149,RailNexus Shatabdi-style Prototype 13149,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13150,RailNexus Express 13150,Express,EXPRESS,KSR Bengaluru,New Delhi
+13151,RailNexus Superfast 13151,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13152,RailNexus Intercity 13152,Intercity,EXPRESS,Mysuru,Belagavi
+13153,RailNexus Vande Bharat 13153,Vande Bharat,PREMIUM,Pune,Mysuru
+13154,RailNexus Shatabdi-style Prototype 13154,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13155,RailNexus Express 13155,Express,EXPRESS,New Delhi,Hyderabad
+13156,RailNexus Superfast 13156,Superfast,EXPRESS,Howrah,Secunderabad
+13157,RailNexus Intercity 13157,Intercity,EXPRESS,Mumbai,Gadag
+13158,RailNexus Vande Bharat 13158,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13159,RailNexus Shatabdi-style Prototype 13159,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13160,RailNexus Express 13160,Express,EXPRESS,KSR Bengaluru,New Delhi
+13161,RailNexus Superfast 13161,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13162,RailNexus Intercity 13162,Intercity,EXPRESS,Mysuru,Belagavi
+13163,RailNexus Vande Bharat 13163,Vande Bharat,PREMIUM,Pune,Mysuru
+13164,RailNexus Shatabdi-style Prototype 13164,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13165,RailNexus Express 13165,Express,EXPRESS,New Delhi,Hyderabad
+13166,RailNexus Superfast 13166,Superfast,EXPRESS,Howrah,Secunderabad
+13167,RailNexus Intercity 13167,Intercity,EXPRESS,Mumbai,Gadag
+13168,RailNexus Vande Bharat 13168,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13169,RailNexus Shatabdi-style Prototype 13169,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13170,RailNexus Express 13170,Express,EXPRESS,KSR Bengaluru,New Delhi
+13171,RailNexus Superfast 13171,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13172,RailNexus Intercity 13172,Intercity,EXPRESS,Mysuru,Belagavi
+13173,RailNexus Vande Bharat 13173,Vande Bharat,PREMIUM,Pune,Mysuru
+13174,RailNexus Shatabdi-style Prototype 13174,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13175,RailNexus Express 13175,Express,EXPRESS,New Delhi,Hyderabad
+13176,RailNexus Superfast 13176,Superfast,EXPRESS,Howrah,Secunderabad
+13177,RailNexus Intercity 13177,Intercity,EXPRESS,Mumbai,Gadag
+13178,RailNexus Vande Bharat 13178,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13179,RailNexus Shatabdi-style Prototype 13179,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13180,RailNexus Express 13180,Express,EXPRESS,KSR Bengaluru,New Delhi
+13181,RailNexus Superfast 13181,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13182,RailNexus Intercity 13182,Intercity,EXPRESS,Mysuru,Belagavi
+13183,RailNexus Vande Bharat 13183,Vande Bharat,PREMIUM,Pune,Mysuru
+13184,RailNexus Shatabdi-style Prototype 13184,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13185,RailNexus Express 13185,Express,EXPRESS,New Delhi,Hyderabad
+13186,RailNexus Superfast 13186,Superfast,EXPRESS,Howrah,Secunderabad
+13187,RailNexus Intercity 13187,Intercity,EXPRESS,Mumbai,Gadag
+13188,RailNexus Vande Bharat 13188,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13189,RailNexus Shatabdi-style Prototype 13189,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13190,RailNexus Express 13190,Express,EXPRESS,KSR Bengaluru,New Delhi
+13191,RailNexus Superfast 13191,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13192,RailNexus Intercity 13192,Intercity,EXPRESS,Mysuru,Belagavi
+13193,RailNexus Vande Bharat 13193,Vande Bharat,PREMIUM,Pune,Mysuru
+13194,RailNexus Shatabdi-style Prototype 13194,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13195,RailNexus Express 13195,Express,EXPRESS,New Delhi,Hyderabad
+13196,RailNexus Superfast 13196,Superfast,EXPRESS,Howrah,Secunderabad
+13197,RailNexus Intercity 13197,Intercity,EXPRESS,Mumbai,Gadag
+13198,RailNexus Vande Bharat 13198,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13199,RailNexus Shatabdi-style Prototype 13199,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13200,RailNexus Express 13200,Express,EXPRESS,KSR Bengaluru,New Delhi
+13201,RailNexus Superfast 13201,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13202,RailNexus Intercity 13202,Intercity,EXPRESS,Mysuru,Belagavi
+13203,RailNexus Vande Bharat 13203,Vande Bharat,PREMIUM,Pune,Mysuru
+13204,RailNexus Shatabdi-style Prototype 13204,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13205,RailNexus Express 13205,Express,EXPRESS,New Delhi,Hyderabad
+13206,RailNexus Superfast 13206,Superfast,EXPRESS,Howrah,Secunderabad
+13207,RailNexus Intercity 13207,Intercity,EXPRESS,Mumbai,Gadag
+13208,RailNexus Vande Bharat 13208,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13209,RailNexus Shatabdi-style Prototype 13209,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13210,RailNexus Express 13210,Express,EXPRESS,KSR Bengaluru,New Delhi
+13211,RailNexus Superfast 13211,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13212,RailNexus Intercity 13212,Intercity,EXPRESS,Mysuru,Belagavi
+13213,RailNexus Vande Bharat 13213,Vande Bharat,PREMIUM,Pune,Mysuru
+13214,RailNexus Shatabdi-style Prototype 13214,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13215,RailNexus Express 13215,Express,EXPRESS,New Delhi,Hyderabad
+13216,RailNexus Superfast 13216,Superfast,EXPRESS,Howrah,Secunderabad
+13217,RailNexus Intercity 13217,Intercity,EXPRESS,Mumbai,Gadag
+13218,RailNexus Vande Bharat 13218,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13219,RailNexus Shatabdi-style Prototype 13219,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13220,RailNexus Express 13220,Express,EXPRESS,KSR Bengaluru,New Delhi
+13221,RailNexus Superfast 13221,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13222,RailNexus Intercity 13222,Intercity,EXPRESS,Mysuru,Belagavi
+13223,RailNexus Vande Bharat 13223,Vande Bharat,PREMIUM,Pune,Mysuru
+13224,RailNexus Shatabdi-style Prototype 13224,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13225,RailNexus Express 13225,Express,EXPRESS,New Delhi,Hyderabad
+13226,RailNexus Superfast 13226,Superfast,EXPRESS,Howrah,Secunderabad
+13227,RailNexus Intercity 13227,Intercity,EXPRESS,Mumbai,Gadag
+13228,RailNexus Vande Bharat 13228,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13229,RailNexus Shatabdi-style Prototype 13229,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13230,RailNexus Express 13230,Express,EXPRESS,KSR Bengaluru,New Delhi
+13231,RailNexus Superfast 13231,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13232,RailNexus Intercity 13232,Intercity,EXPRESS,Mysuru,Belagavi
+13233,RailNexus Vande Bharat 13233,Vande Bharat,PREMIUM,Pune,Mysuru
+13234,RailNexus Shatabdi-style Prototype 13234,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13235,RailNexus Express 13235,Express,EXPRESS,New Delhi,Hyderabad
+13236,RailNexus Superfast 13236,Superfast,EXPRESS,Howrah,Secunderabad
+13237,RailNexus Intercity 13237,Intercity,EXPRESS,Mumbai,Gadag
+13238,RailNexus Vande Bharat 13238,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13239,RailNexus Shatabdi-style Prototype 13239,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13240,RailNexus Express 13240,Express,EXPRESS,KSR Bengaluru,New Delhi
+13241,RailNexus Superfast 13241,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13242,RailNexus Intercity 13242,Intercity,EXPRESS,Mysuru,Belagavi
+13243,RailNexus Vande Bharat 13243,Vande Bharat,PREMIUM,Pune,Mysuru
+13244,RailNexus Shatabdi-style Prototype 13244,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13245,RailNexus Express 13245,Express,EXPRESS,New Delhi,Hyderabad
+13246,RailNexus Superfast 13246,Superfast,EXPRESS,Howrah,Secunderabad
+13247,RailNexus Intercity 13247,Intercity,EXPRESS,Mumbai,Gadag
+13248,RailNexus Vande Bharat 13248,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13249,RailNexus Shatabdi-style Prototype 13249,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13250,RailNexus Express 13250,Express,EXPRESS,KSR Bengaluru,New Delhi
+13251,RailNexus Superfast 13251,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13252,RailNexus Intercity 13252,Intercity,EXPRESS,Mysuru,Belagavi
+13253,RailNexus Vande Bharat 13253,Vande Bharat,PREMIUM,Pune,Mysuru
+13254,RailNexus Shatabdi-style Prototype 13254,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13255,RailNexus Express 13255,Express,EXPRESS,New Delhi,Hyderabad
+13256,RailNexus Superfast 13256,Superfast,EXPRESS,Howrah,Secunderabad
+13257,RailNexus Intercity 13257,Intercity,EXPRESS,Mumbai,Gadag
+13258,RailNexus Vande Bharat 13258,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13259,RailNexus Shatabdi-style Prototype 13259,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13260,RailNexus Express 13260,Express,EXPRESS,KSR Bengaluru,New Delhi
+13261,RailNexus Superfast 13261,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13262,RailNexus Intercity 13262,Intercity,EXPRESS,Mysuru,Belagavi
+13263,RailNexus Vande Bharat 13263,Vande Bharat,PREMIUM,Pune,Mysuru
+13264,RailNexus Shatabdi-style Prototype 13264,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13265,RailNexus Express 13265,Express,EXPRESS,New Delhi,Hyderabad
+13266,RailNexus Superfast 13266,Superfast,EXPRESS,Howrah,Secunderabad
+13267,RailNexus Intercity 13267,Intercity,EXPRESS,Mumbai,Gadag
+13268,RailNexus Vande Bharat 13268,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13269,RailNexus Shatabdi-style Prototype 13269,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13270,RailNexus Express 13270,Express,EXPRESS,KSR Bengaluru,New Delhi
+13271,RailNexus Superfast 13271,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13272,RailNexus Intercity 13272,Intercity,EXPRESS,Mysuru,Belagavi
+13273,RailNexus Vande Bharat 13273,Vande Bharat,PREMIUM,Pune,Mysuru
+13274,RailNexus Shatabdi-style Prototype 13274,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13275,RailNexus Express 13275,Express,EXPRESS,New Delhi,Hyderabad
+13276,RailNexus Superfast 13276,Superfast,EXPRESS,Howrah,Secunderabad
+13277,RailNexus Intercity 13277,Intercity,EXPRESS,Mumbai,Gadag
+13278,RailNexus Vande Bharat 13278,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13279,RailNexus Shatabdi-style Prototype 13279,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13280,RailNexus Express 13280,Express,EXPRESS,KSR Bengaluru,New Delhi
+13281,RailNexus Superfast 13281,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13282,RailNexus Intercity 13282,Intercity,EXPRESS,Mysuru,Belagavi
+13283,RailNexus Vande Bharat 13283,Vande Bharat,PREMIUM,Pune,Mysuru
+13284,RailNexus Shatabdi-style Prototype 13284,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13285,RailNexus Express 13285,Express,EXPRESS,New Delhi,Hyderabad
+13286,RailNexus Superfast 13286,Superfast,EXPRESS,Howrah,Secunderabad
+13287,RailNexus Intercity 13287,Intercity,EXPRESS,Mumbai,Gadag
+13288,RailNexus Vande Bharat 13288,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13289,RailNexus Shatabdi-style Prototype 13289,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13290,RailNexus Express 13290,Express,EXPRESS,KSR Bengaluru,New Delhi
+13291,RailNexus Superfast 13291,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13292,RailNexus Intercity 13292,Intercity,EXPRESS,Mysuru,Belagavi
+13293,RailNexus Vande Bharat 13293,Vande Bharat,PREMIUM,Pune,Mysuru
+13294,RailNexus Shatabdi-style Prototype 13294,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13295,RailNexus Express 13295,Express,EXPRESS,New Delhi,Hyderabad
+13296,RailNexus Superfast 13296,Superfast,EXPRESS,Howrah,Secunderabad
+13297,RailNexus Intercity 13297,Intercity,EXPRESS,Mumbai,Gadag
+13298,RailNexus Vande Bharat 13298,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13299,RailNexus Shatabdi-style Prototype 13299,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13300,RailNexus Express 13300,Express,EXPRESS,KSR Bengaluru,New Delhi
+13301,RailNexus Superfast 13301,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13302,RailNexus Intercity 13302,Intercity,EXPRESS,Mysuru,Belagavi
+13303,RailNexus Vande Bharat 13303,Vande Bharat,PREMIUM,Pune,Mysuru
+13304,RailNexus Shatabdi-style Prototype 13304,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13305,RailNexus Express 13305,Express,EXPRESS,New Delhi,Hyderabad
+13306,RailNexus Superfast 13306,Superfast,EXPRESS,Howrah,Secunderabad
+13307,RailNexus Intercity 13307,Intercity,EXPRESS,Mumbai,Gadag
+13308,RailNexus Vande Bharat 13308,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13309,RailNexus Shatabdi-style Prototype 13309,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13310,RailNexus Express 13310,Express,EXPRESS,KSR Bengaluru,New Delhi
+13311,RailNexus Superfast 13311,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13312,RailNexus Intercity 13312,Intercity,EXPRESS,Mysuru,Belagavi
+13313,RailNexus Vande Bharat 13313,Vande Bharat,PREMIUM,Pune,Mysuru
+13314,RailNexus Shatabdi-style Prototype 13314,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13315,RailNexus Express 13315,Express,EXPRESS,New Delhi,Hyderabad
+13316,RailNexus Superfast 13316,Superfast,EXPRESS,Howrah,Secunderabad
+13317,RailNexus Intercity 13317,Intercity,EXPRESS,Mumbai,Gadag
+13318,RailNexus Vande Bharat 13318,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13319,RailNexus Shatabdi-style Prototype 13319,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13320,RailNexus Express 13320,Express,EXPRESS,KSR Bengaluru,New Delhi
+13321,RailNexus Superfast 13321,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13322,RailNexus Intercity 13322,Intercity,EXPRESS,Mysuru,Belagavi
+13323,RailNexus Vande Bharat 13323,Vande Bharat,PREMIUM,Pune,Mysuru
+13324,RailNexus Shatabdi-style Prototype 13324,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13325,RailNexus Express 13325,Express,EXPRESS,New Delhi,Hyderabad
+13326,RailNexus Superfast 13326,Superfast,EXPRESS,Howrah,Secunderabad
+13327,RailNexus Intercity 13327,Intercity,EXPRESS,Mumbai,Gadag
+13328,RailNexus Vande Bharat 13328,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13329,RailNexus Shatabdi-style Prototype 13329,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13330,RailNexus Express 13330,Express,EXPRESS,KSR Bengaluru,New Delhi
+13331,RailNexus Superfast 13331,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13332,RailNexus Intercity 13332,Intercity,EXPRESS,Mysuru,Belagavi
+13333,RailNexus Vande Bharat 13333,Vande Bharat,PREMIUM,Pune,Mysuru
+13334,RailNexus Shatabdi-style Prototype 13334,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13335,RailNexus Express 13335,Express,EXPRESS,New Delhi,Hyderabad
+13336,RailNexus Superfast 13336,Superfast,EXPRESS,Howrah,Secunderabad
+13337,RailNexus Intercity 13337,Intercity,EXPRESS,Mumbai,Gadag
+13338,RailNexus Vande Bharat 13338,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13339,RailNexus Shatabdi-style Prototype 13339,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13340,RailNexus Express 13340,Express,EXPRESS,KSR Bengaluru,New Delhi
+13341,RailNexus Superfast 13341,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13342,RailNexus Intercity 13342,Intercity,EXPRESS,Mysuru,Belagavi
+13343,RailNexus Vande Bharat 13343,Vande Bharat,PREMIUM,Pune,Mysuru
+13344,RailNexus Shatabdi-style Prototype 13344,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13345,RailNexus Express 13345,Express,EXPRESS,New Delhi,Hyderabad
+13346,RailNexus Superfast 13346,Superfast,EXPRESS,Howrah,Secunderabad
+13347,RailNexus Intercity 13347,Intercity,EXPRESS,Mumbai,Gadag
+13348,RailNexus Vande Bharat 13348,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13349,RailNexus Shatabdi-style Prototype 13349,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13350,RailNexus Express 13350,Express,EXPRESS,KSR Bengaluru,New Delhi
+13351,RailNexus Superfast 13351,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13352,RailNexus Intercity 13352,Intercity,EXPRESS,Mysuru,Belagavi
+13353,RailNexus Vande Bharat 13353,Vande Bharat,PREMIUM,Pune,Mysuru
+13354,RailNexus Shatabdi-style Prototype 13354,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13355,RailNexus Express 13355,Express,EXPRESS,New Delhi,Hyderabad
+13356,RailNexus Superfast 13356,Superfast,EXPRESS,Howrah,Secunderabad
+13357,RailNexus Intercity 13357,Intercity,EXPRESS,Mumbai,Gadag
+13358,RailNexus Vande Bharat 13358,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13359,RailNexus Shatabdi-style Prototype 13359,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13360,RailNexus Express 13360,Express,EXPRESS,KSR Bengaluru,New Delhi
+13361,RailNexus Superfast 13361,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13362,RailNexus Intercity 13362,Intercity,EXPRESS,Mysuru,Belagavi
+13363,RailNexus Vande Bharat 13363,Vande Bharat,PREMIUM,Pune,Mysuru
+13364,RailNexus Shatabdi-style Prototype 13364,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13365,RailNexus Express 13365,Express,EXPRESS,New Delhi,Hyderabad
+13366,RailNexus Superfast 13366,Superfast,EXPRESS,Howrah,Secunderabad
+13367,RailNexus Intercity 13367,Intercity,EXPRESS,Mumbai,Gadag
+13368,RailNexus Vande Bharat 13368,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13369,RailNexus Shatabdi-style Prototype 13369,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13370,RailNexus Express 13370,Express,EXPRESS,KSR Bengaluru,New Delhi
+13371,RailNexus Superfast 13371,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13372,RailNexus Intercity 13372,Intercity,EXPRESS,Mysuru,Belagavi
+13373,RailNexus Vande Bharat 13373,Vande Bharat,PREMIUM,Pune,Mysuru
+13374,RailNexus Shatabdi-style Prototype 13374,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13375,RailNexus Express 13375,Express,EXPRESS,New Delhi,Hyderabad
+13376,RailNexus Superfast 13376,Superfast,EXPRESS,Howrah,Secunderabad
+13377,RailNexus Intercity 13377,Intercity,EXPRESS,Mumbai,Gadag
+13378,RailNexus Vande Bharat 13378,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13379,RailNexus Shatabdi-style Prototype 13379,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13380,RailNexus Express 13380,Express,EXPRESS,KSR Bengaluru,New Delhi
+13381,RailNexus Superfast 13381,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13382,RailNexus Intercity 13382,Intercity,EXPRESS,Mysuru,Belagavi
+13383,RailNexus Vande Bharat 13383,Vande Bharat,PREMIUM,Pune,Mysuru
+13384,RailNexus Shatabdi-style Prototype 13384,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13385,RailNexus Express 13385,Express,EXPRESS,New Delhi,Hyderabad
+13386,RailNexus Superfast 13386,Superfast,EXPRESS,Howrah,Secunderabad
+13387,RailNexus Intercity 13387,Intercity,EXPRESS,Mumbai,Gadag
+13388,RailNexus Vande Bharat 13388,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13389,RailNexus Shatabdi-style Prototype 13389,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13390,RailNexus Express 13390,Express,EXPRESS,KSR Bengaluru,New Delhi
+13391,RailNexus Superfast 13391,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13392,RailNexus Intercity 13392,Intercity,EXPRESS,Mysuru,Belagavi
+13393,RailNexus Vande Bharat 13393,Vande Bharat,PREMIUM,Pune,Mysuru
+13394,RailNexus Shatabdi-style Prototype 13394,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13395,RailNexus Express 13395,Express,EXPRESS,New Delhi,Hyderabad
+13396,RailNexus Superfast 13396,Superfast,EXPRESS,Howrah,Secunderabad
+13397,RailNexus Intercity 13397,Intercity,EXPRESS,Mumbai,Gadag
+13398,RailNexus Vande Bharat 13398,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13399,RailNexus Shatabdi-style Prototype 13399,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13400,RailNexus Express 13400,Express,EXPRESS,KSR Bengaluru,New Delhi
+13401,RailNexus Superfast 13401,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13402,RailNexus Intercity 13402,Intercity,EXPRESS,Mysuru,Belagavi
+13403,RailNexus Vande Bharat 13403,Vande Bharat,PREMIUM,Pune,Mysuru
+13404,RailNexus Shatabdi-style Prototype 13404,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13405,RailNexus Express 13405,Express,EXPRESS,New Delhi,Hyderabad
+13406,RailNexus Superfast 13406,Superfast,EXPRESS,Howrah,Secunderabad
+13407,RailNexus Intercity 13407,Intercity,EXPRESS,Mumbai,Gadag
+13408,RailNexus Vande Bharat 13408,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13409,RailNexus Shatabdi-style Prototype 13409,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13410,RailNexus Express 13410,Express,EXPRESS,KSR Bengaluru,New Delhi
+13411,RailNexus Superfast 13411,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13412,RailNexus Intercity 13412,Intercity,EXPRESS,Mysuru,Belagavi
+13413,RailNexus Vande Bharat 13413,Vande Bharat,PREMIUM,Pune,Mysuru
+13414,RailNexus Shatabdi-style Prototype 13414,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13415,RailNexus Express 13415,Express,EXPRESS,New Delhi,Hyderabad
+13416,RailNexus Superfast 13416,Superfast,EXPRESS,Howrah,Secunderabad
+13417,RailNexus Intercity 13417,Intercity,EXPRESS,Mumbai,Gadag
+13418,RailNexus Vande Bharat 13418,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13419,RailNexus Shatabdi-style Prototype 13419,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13420,RailNexus Express 13420,Express,EXPRESS,KSR Bengaluru,New Delhi
+13421,RailNexus Superfast 13421,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13422,RailNexus Intercity 13422,Intercity,EXPRESS,Mysuru,Belagavi
+13423,RailNexus Vande Bharat 13423,Vande Bharat,PREMIUM,Pune,Mysuru
+13424,RailNexus Shatabdi-style Prototype 13424,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13425,RailNexus Express 13425,Express,EXPRESS,New Delhi,Hyderabad
+13426,RailNexus Superfast 13426,Superfast,EXPRESS,Howrah,Secunderabad
+13427,RailNexus Intercity 13427,Intercity,EXPRESS,Mumbai,Gadag
+13428,RailNexus Vande Bharat 13428,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13429,RailNexus Shatabdi-style Prototype 13429,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13430,RailNexus Express 13430,Express,EXPRESS,KSR Bengaluru,New Delhi
+13431,RailNexus Superfast 13431,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13432,RailNexus Intercity 13432,Intercity,EXPRESS,Mysuru,Belagavi
+13433,RailNexus Vande Bharat 13433,Vande Bharat,PREMIUM,Pune,Mysuru
+13434,RailNexus Shatabdi-style Prototype 13434,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13435,RailNexus Express 13435,Express,EXPRESS,New Delhi,Hyderabad
+13436,RailNexus Superfast 13436,Superfast,EXPRESS,Howrah,Secunderabad
+13437,RailNexus Intercity 13437,Intercity,EXPRESS,Mumbai,Gadag
+13438,RailNexus Vande Bharat 13438,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13439,RailNexus Shatabdi-style Prototype 13439,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13440,RailNexus Express 13440,Express,EXPRESS,KSR Bengaluru,New Delhi
+13441,RailNexus Superfast 13441,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13442,RailNexus Intercity 13442,Intercity,EXPRESS,Mysuru,Belagavi
+13443,RailNexus Vande Bharat 13443,Vande Bharat,PREMIUM,Pune,Mysuru
+13444,RailNexus Shatabdi-style Prototype 13444,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13445,RailNexus Express 13445,Express,EXPRESS,New Delhi,Hyderabad
+13446,RailNexus Superfast 13446,Superfast,EXPRESS,Howrah,Secunderabad
+13447,RailNexus Intercity 13447,Intercity,EXPRESS,Mumbai,Gadag
+13448,RailNexus Vande Bharat 13448,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13449,RailNexus Shatabdi-style Prototype 13449,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13450,RailNexus Express 13450,Express,EXPRESS,KSR Bengaluru,New Delhi
+13451,RailNexus Superfast 13451,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13452,RailNexus Intercity 13452,Intercity,EXPRESS,Mysuru,Belagavi
+13453,RailNexus Vande Bharat 13453,Vande Bharat,PREMIUM,Pune,Mysuru
+13454,RailNexus Shatabdi-style Prototype 13454,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13455,RailNexus Express 13455,Express,EXPRESS,New Delhi,Hyderabad
+13456,RailNexus Superfast 13456,Superfast,EXPRESS,Howrah,Secunderabad
+13457,RailNexus Intercity 13457,Intercity,EXPRESS,Mumbai,Gadag
+13458,RailNexus Vande Bharat 13458,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13459,RailNexus Shatabdi-style Prototype 13459,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13460,RailNexus Express 13460,Express,EXPRESS,KSR Bengaluru,New Delhi
+13461,RailNexus Superfast 13461,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13462,RailNexus Intercity 13462,Intercity,EXPRESS,Mysuru,Belagavi
+13463,RailNexus Vande Bharat 13463,Vande Bharat,PREMIUM,Pune,Mysuru
+13464,RailNexus Shatabdi-style Prototype 13464,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13465,RailNexus Express 13465,Express,EXPRESS,New Delhi,Hyderabad
+13466,RailNexus Superfast 13466,Superfast,EXPRESS,Howrah,Secunderabad
+13467,RailNexus Intercity 13467,Intercity,EXPRESS,Mumbai,Gadag
+13468,RailNexus Vande Bharat 13468,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13469,RailNexus Shatabdi-style Prototype 13469,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13470,RailNexus Express 13470,Express,EXPRESS,KSR Bengaluru,New Delhi
+13471,RailNexus Superfast 13471,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13472,RailNexus Intercity 13472,Intercity,EXPRESS,Mysuru,Belagavi
+13473,RailNexus Vande Bharat 13473,Vande Bharat,PREMIUM,Pune,Mysuru
+13474,RailNexus Shatabdi-style Prototype 13474,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13475,RailNexus Express 13475,Express,EXPRESS,New Delhi,Hyderabad
+13476,RailNexus Superfast 13476,Superfast,EXPRESS,Howrah,Secunderabad
+13477,RailNexus Intercity 13477,Intercity,EXPRESS,Mumbai,Gadag
+13478,RailNexus Vande Bharat 13478,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13479,RailNexus Shatabdi-style Prototype 13479,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13480,RailNexus Express 13480,Express,EXPRESS,KSR Bengaluru,New Delhi
+13481,RailNexus Superfast 13481,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13482,RailNexus Intercity 13482,Intercity,EXPRESS,Mysuru,Belagavi
+13483,RailNexus Vande Bharat 13483,Vande Bharat,PREMIUM,Pune,Mysuru
+13484,RailNexus Shatabdi-style Prototype 13484,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13485,RailNexus Express 13485,Express,EXPRESS,New Delhi,Hyderabad
+13486,RailNexus Superfast 13486,Superfast,EXPRESS,Howrah,Secunderabad
+13487,RailNexus Intercity 13487,Intercity,EXPRESS,Mumbai,Gadag
+13488,RailNexus Vande Bharat 13488,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13489,RailNexus Shatabdi-style Prototype 13489,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13490,RailNexus Express 13490,Express,EXPRESS,KSR Bengaluru,New Delhi
+13491,RailNexus Superfast 13491,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13492,RailNexus Intercity 13492,Intercity,EXPRESS,Mysuru,Belagavi
+13493,RailNexus Vande Bharat 13493,Vande Bharat,PREMIUM,Pune,Mysuru
+13494,RailNexus Shatabdi-style Prototype 13494,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13495,RailNexus Express 13495,Express,EXPRESS,New Delhi,Hyderabad
+13496,RailNexus Superfast 13496,Superfast,EXPRESS,Howrah,Secunderabad
+13497,RailNexus Intercity 13497,Intercity,EXPRESS,Mumbai,Gadag
+13498,RailNexus Vande Bharat 13498,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13499,RailNexus Shatabdi-style Prototype 13499,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13500,RailNexus Express 13500,Express,EXPRESS,KSR Bengaluru,New Delhi
+13501,RailNexus Superfast 13501,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13502,RailNexus Intercity 13502,Intercity,EXPRESS,Mysuru,Belagavi
+13503,RailNexus Vande Bharat 13503,Vande Bharat,PREMIUM,Pune,Mysuru
+13504,RailNexus Shatabdi-style Prototype 13504,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13505,RailNexus Express 13505,Express,EXPRESS,New Delhi,Hyderabad
+13506,RailNexus Superfast 13506,Superfast,EXPRESS,Howrah,Secunderabad
+13507,RailNexus Intercity 13507,Intercity,EXPRESS,Mumbai,Gadag
+13508,RailNexus Vande Bharat 13508,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13509,RailNexus Shatabdi-style Prototype 13509,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13510,RailNexus Express 13510,Express,EXPRESS,KSR Bengaluru,New Delhi
+13511,RailNexus Superfast 13511,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13512,RailNexus Intercity 13512,Intercity,EXPRESS,Mysuru,Belagavi
+13513,RailNexus Vande Bharat 13513,Vande Bharat,PREMIUM,Pune,Mysuru
+13514,RailNexus Shatabdi-style Prototype 13514,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13515,RailNexus Express 13515,Express,EXPRESS,New Delhi,Hyderabad
+13516,RailNexus Superfast 13516,Superfast,EXPRESS,Howrah,Secunderabad
+13517,RailNexus Intercity 13517,Intercity,EXPRESS,Mumbai,Gadag
+13518,RailNexus Vande Bharat 13518,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13519,RailNexus Shatabdi-style Prototype 13519,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13520,RailNexus Express 13520,Express,EXPRESS,KSR Bengaluru,New Delhi
+13521,RailNexus Superfast 13521,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13522,RailNexus Intercity 13522,Intercity,EXPRESS,Mysuru,Belagavi
+13523,RailNexus Vande Bharat 13523,Vande Bharat,PREMIUM,Pune,Mysuru
+13524,RailNexus Shatabdi-style Prototype 13524,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13525,RailNexus Express 13525,Express,EXPRESS,New Delhi,Hyderabad
+13526,RailNexus Superfast 13526,Superfast,EXPRESS,Howrah,Secunderabad
+13527,RailNexus Intercity 13527,Intercity,EXPRESS,Mumbai,Gadag
+13528,RailNexus Vande Bharat 13528,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13529,RailNexus Shatabdi-style Prototype 13529,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13530,RailNexus Express 13530,Express,EXPRESS,KSR Bengaluru,New Delhi
+13531,RailNexus Superfast 13531,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13532,RailNexus Intercity 13532,Intercity,EXPRESS,Mysuru,Belagavi
+13533,RailNexus Vande Bharat 13533,Vande Bharat,PREMIUM,Pune,Mysuru
+13534,RailNexus Shatabdi-style Prototype 13534,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13535,RailNexus Express 13535,Express,EXPRESS,New Delhi,Hyderabad
+13536,RailNexus Superfast 13536,Superfast,EXPRESS,Howrah,Secunderabad
+13537,RailNexus Intercity 13537,Intercity,EXPRESS,Mumbai,Gadag
+13538,RailNexus Vande Bharat 13538,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13539,RailNexus Shatabdi-style Prototype 13539,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13540,RailNexus Express 13540,Express,EXPRESS,KSR Bengaluru,New Delhi
+13541,RailNexus Superfast 13541,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13542,RailNexus Intercity 13542,Intercity,EXPRESS,Mysuru,Belagavi
+13543,RailNexus Vande Bharat 13543,Vande Bharat,PREMIUM,Pune,Mysuru
+13544,RailNexus Shatabdi-style Prototype 13544,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13545,RailNexus Express 13545,Express,EXPRESS,New Delhi,Hyderabad
+13546,RailNexus Superfast 13546,Superfast,EXPRESS,Howrah,Secunderabad
+13547,RailNexus Intercity 13547,Intercity,EXPRESS,Mumbai,Gadag
+13548,RailNexus Vande Bharat 13548,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13549,RailNexus Shatabdi-style Prototype 13549,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13550,RailNexus Express 13550,Express,EXPRESS,KSR Bengaluru,New Delhi
+13551,RailNexus Superfast 13551,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13552,RailNexus Intercity 13552,Intercity,EXPRESS,Mysuru,Belagavi
+13553,RailNexus Vande Bharat 13553,Vande Bharat,PREMIUM,Pune,Mysuru
+13554,RailNexus Shatabdi-style Prototype 13554,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13555,RailNexus Express 13555,Express,EXPRESS,New Delhi,Hyderabad
+13556,RailNexus Superfast 13556,Superfast,EXPRESS,Howrah,Secunderabad
+13557,RailNexus Intercity 13557,Intercity,EXPRESS,Mumbai,Gadag
+13558,RailNexus Vande Bharat 13558,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13559,RailNexus Shatabdi-style Prototype 13559,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13560,RailNexus Express 13560,Express,EXPRESS,KSR Bengaluru,New Delhi
+13561,RailNexus Superfast 13561,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13562,RailNexus Intercity 13562,Intercity,EXPRESS,Mysuru,Belagavi
+13563,RailNexus Vande Bharat 13563,Vande Bharat,PREMIUM,Pune,Mysuru
+13564,RailNexus Shatabdi-style Prototype 13564,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13565,RailNexus Express 13565,Express,EXPRESS,New Delhi,Hyderabad
+13566,RailNexus Superfast 13566,Superfast,EXPRESS,Howrah,Secunderabad
+13567,RailNexus Intercity 13567,Intercity,EXPRESS,Mumbai,Gadag
+13568,RailNexus Vande Bharat 13568,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13569,RailNexus Shatabdi-style Prototype 13569,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13570,RailNexus Express 13570,Express,EXPRESS,KSR Bengaluru,New Delhi
+13571,RailNexus Superfast 13571,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13572,RailNexus Intercity 13572,Intercity,EXPRESS,Mysuru,Belagavi
+13573,RailNexus Vande Bharat 13573,Vande Bharat,PREMIUM,Pune,Mysuru
+13574,RailNexus Shatabdi-style Prototype 13574,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13575,RailNexus Express 13575,Express,EXPRESS,New Delhi,Hyderabad
+13576,RailNexus Superfast 13576,Superfast,EXPRESS,Howrah,Secunderabad
+13577,RailNexus Intercity 13577,Intercity,EXPRESS,Mumbai,Gadag
+13578,RailNexus Vande Bharat 13578,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13579,RailNexus Shatabdi-style Prototype 13579,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13580,RailNexus Express 13580,Express,EXPRESS,KSR Bengaluru,New Delhi
+13581,RailNexus Superfast 13581,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13582,RailNexus Intercity 13582,Intercity,EXPRESS,Mysuru,Belagavi
+13583,RailNexus Vande Bharat 13583,Vande Bharat,PREMIUM,Pune,Mysuru
+13584,RailNexus Shatabdi-style Prototype 13584,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13585,RailNexus Express 13585,Express,EXPRESS,New Delhi,Hyderabad
+13586,RailNexus Superfast 13586,Superfast,EXPRESS,Howrah,Secunderabad
+13587,RailNexus Intercity 13587,Intercity,EXPRESS,Mumbai,Gadag
+13588,RailNexus Vande Bharat 13588,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13589,RailNexus Shatabdi-style Prototype 13589,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13590,RailNexus Express 13590,Express,EXPRESS,KSR Bengaluru,New Delhi
+13591,RailNexus Superfast 13591,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13592,RailNexus Intercity 13592,Intercity,EXPRESS,Mysuru,Belagavi
+13593,RailNexus Vande Bharat 13593,Vande Bharat,PREMIUM,Pune,Mysuru
+13594,RailNexus Shatabdi-style Prototype 13594,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13595,RailNexus Express 13595,Express,EXPRESS,New Delhi,Hyderabad
+13596,RailNexus Superfast 13596,Superfast,EXPRESS,Howrah,Secunderabad
+13597,RailNexus Intercity 13597,Intercity,EXPRESS,Mumbai,Gadag
+13598,RailNexus Vande Bharat 13598,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13599,RailNexus Shatabdi-style Prototype 13599,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13600,RailNexus Express 13600,Express,EXPRESS,KSR Bengaluru,New Delhi
+13601,RailNexus Superfast 13601,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13602,RailNexus Intercity 13602,Intercity,EXPRESS,Mysuru,Belagavi
+13603,RailNexus Vande Bharat 13603,Vande Bharat,PREMIUM,Pune,Mysuru
+13604,RailNexus Shatabdi-style Prototype 13604,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13605,RailNexus Express 13605,Express,EXPRESS,New Delhi,Hyderabad
+13606,RailNexus Superfast 13606,Superfast,EXPRESS,Howrah,Secunderabad
+13607,RailNexus Intercity 13607,Intercity,EXPRESS,Mumbai,Gadag
+13608,RailNexus Vande Bharat 13608,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13609,RailNexus Shatabdi-style Prototype 13609,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13610,RailNexus Express 13610,Express,EXPRESS,KSR Bengaluru,New Delhi
+13611,RailNexus Superfast 13611,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13612,RailNexus Intercity 13612,Intercity,EXPRESS,Mysuru,Belagavi
+13613,RailNexus Vande Bharat 13613,Vande Bharat,PREMIUM,Pune,Mysuru
+13614,RailNexus Shatabdi-style Prototype 13614,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13615,RailNexus Express 13615,Express,EXPRESS,New Delhi,Hyderabad
+13616,RailNexus Superfast 13616,Superfast,EXPRESS,Howrah,Secunderabad
+13617,RailNexus Intercity 13617,Intercity,EXPRESS,Mumbai,Gadag
+13618,RailNexus Vande Bharat 13618,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13619,RailNexus Shatabdi-style Prototype 13619,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13620,RailNexus Express 13620,Express,EXPRESS,KSR Bengaluru,New Delhi
+13621,RailNexus Superfast 13621,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13622,RailNexus Intercity 13622,Intercity,EXPRESS,Mysuru,Belagavi
+13623,RailNexus Vande Bharat 13623,Vande Bharat,PREMIUM,Pune,Mysuru
+13624,RailNexus Shatabdi-style Prototype 13624,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13625,RailNexus Express 13625,Express,EXPRESS,New Delhi,Hyderabad
+13626,RailNexus Superfast 13626,Superfast,EXPRESS,Howrah,Secunderabad
+13627,RailNexus Intercity 13627,Intercity,EXPRESS,Mumbai,Gadag
+13628,RailNexus Vande Bharat 13628,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13629,RailNexus Shatabdi-style Prototype 13629,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13630,RailNexus Express 13630,Express,EXPRESS,KSR Bengaluru,New Delhi
+13631,RailNexus Superfast 13631,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13632,RailNexus Intercity 13632,Intercity,EXPRESS,Mysuru,Belagavi
+13633,RailNexus Vande Bharat 13633,Vande Bharat,PREMIUM,Pune,Mysuru
+13634,RailNexus Shatabdi-style Prototype 13634,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13635,RailNexus Express 13635,Express,EXPRESS,New Delhi,Hyderabad
+13636,RailNexus Superfast 13636,Superfast,EXPRESS,Howrah,Secunderabad
+13637,RailNexus Intercity 13637,Intercity,EXPRESS,Mumbai,Gadag
+13638,RailNexus Vande Bharat 13638,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13639,RailNexus Shatabdi-style Prototype 13639,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13640,RailNexus Express 13640,Express,EXPRESS,KSR Bengaluru,New Delhi
+13641,RailNexus Superfast 13641,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13642,RailNexus Intercity 13642,Intercity,EXPRESS,Mysuru,Belagavi
+13643,RailNexus Vande Bharat 13643,Vande Bharat,PREMIUM,Pune,Mysuru
+13644,RailNexus Shatabdi-style Prototype 13644,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13645,RailNexus Express 13645,Express,EXPRESS,New Delhi,Hyderabad
+13646,RailNexus Superfast 13646,Superfast,EXPRESS,Howrah,Secunderabad
+13647,RailNexus Intercity 13647,Intercity,EXPRESS,Mumbai,Gadag
+13648,RailNexus Vande Bharat 13648,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13649,RailNexus Shatabdi-style Prototype 13649,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13650,RailNexus Express 13650,Express,EXPRESS,KSR Bengaluru,New Delhi
+13651,RailNexus Superfast 13651,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13652,RailNexus Intercity 13652,Intercity,EXPRESS,Mysuru,Belagavi
+13653,RailNexus Vande Bharat 13653,Vande Bharat,PREMIUM,Pune,Mysuru
+13654,RailNexus Shatabdi-style Prototype 13654,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13655,RailNexus Express 13655,Express,EXPRESS,New Delhi,Hyderabad
+13656,RailNexus Superfast 13656,Superfast,EXPRESS,Howrah,Secunderabad
+13657,RailNexus Intercity 13657,Intercity,EXPRESS,Mumbai,Gadag
+13658,RailNexus Vande Bharat 13658,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13659,RailNexus Shatabdi-style Prototype 13659,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13660,RailNexus Express 13660,Express,EXPRESS,KSR Bengaluru,New Delhi
+13661,RailNexus Superfast 13661,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13662,RailNexus Intercity 13662,Intercity,EXPRESS,Mysuru,Belagavi
+13663,RailNexus Vande Bharat 13663,Vande Bharat,PREMIUM,Pune,Mysuru
+13664,RailNexus Shatabdi-style Prototype 13664,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13665,RailNexus Express 13665,Express,EXPRESS,New Delhi,Hyderabad
+13666,RailNexus Superfast 13666,Superfast,EXPRESS,Howrah,Secunderabad
+13667,RailNexus Intercity 13667,Intercity,EXPRESS,Mumbai,Gadag
+13668,RailNexus Vande Bharat 13668,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13669,RailNexus Shatabdi-style Prototype 13669,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13670,RailNexus Express 13670,Express,EXPRESS,KSR Bengaluru,New Delhi
+13671,RailNexus Superfast 13671,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13672,RailNexus Intercity 13672,Intercity,EXPRESS,Mysuru,Belagavi
+13673,RailNexus Vande Bharat 13673,Vande Bharat,PREMIUM,Pune,Mysuru
+13674,RailNexus Shatabdi-style Prototype 13674,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13675,RailNexus Express 13675,Express,EXPRESS,New Delhi,Hyderabad
+13676,RailNexus Superfast 13676,Superfast,EXPRESS,Howrah,Secunderabad
+13677,RailNexus Intercity 13677,Intercity,EXPRESS,Mumbai,Gadag
+13678,RailNexus Vande Bharat 13678,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13679,RailNexus Shatabdi-style Prototype 13679,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13680,RailNexus Express 13680,Express,EXPRESS,KSR Bengaluru,New Delhi
+13681,RailNexus Superfast 13681,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13682,RailNexus Intercity 13682,Intercity,EXPRESS,Mysuru,Belagavi
+13683,RailNexus Vande Bharat 13683,Vande Bharat,PREMIUM,Pune,Mysuru
+13684,RailNexus Shatabdi-style Prototype 13684,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13685,RailNexus Express 13685,Express,EXPRESS,New Delhi,Hyderabad
+13686,RailNexus Superfast 13686,Superfast,EXPRESS,Howrah,Secunderabad
+13687,RailNexus Intercity 13687,Intercity,EXPRESS,Mumbai,Gadag
+13688,RailNexus Vande Bharat 13688,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13689,RailNexus Shatabdi-style Prototype 13689,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13690,RailNexus Express 13690,Express,EXPRESS,KSR Bengaluru,New Delhi
+13691,RailNexus Superfast 13691,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13692,RailNexus Intercity 13692,Intercity,EXPRESS,Mysuru,Belagavi
+13693,RailNexus Vande Bharat 13693,Vande Bharat,PREMIUM,Pune,Mysuru
+13694,RailNexus Shatabdi-style Prototype 13694,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13695,RailNexus Express 13695,Express,EXPRESS,New Delhi,Hyderabad
+13696,RailNexus Superfast 13696,Superfast,EXPRESS,Howrah,Secunderabad
+13697,RailNexus Intercity 13697,Intercity,EXPRESS,Mumbai,Gadag
+13698,RailNexus Vande Bharat 13698,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13699,RailNexus Shatabdi-style Prototype 13699,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13700,RailNexus Express 13700,Express,EXPRESS,KSR Bengaluru,New Delhi
+13701,RailNexus Superfast 13701,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13702,RailNexus Intercity 13702,Intercity,EXPRESS,Mysuru,Belagavi
+13703,RailNexus Vande Bharat 13703,Vande Bharat,PREMIUM,Pune,Mysuru
+13704,RailNexus Shatabdi-style Prototype 13704,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13705,RailNexus Express 13705,Express,EXPRESS,New Delhi,Hyderabad
+13706,RailNexus Superfast 13706,Superfast,EXPRESS,Howrah,Secunderabad
+13707,RailNexus Intercity 13707,Intercity,EXPRESS,Mumbai,Gadag
+13708,RailNexus Vande Bharat 13708,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13709,RailNexus Shatabdi-style Prototype 13709,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13710,RailNexus Express 13710,Express,EXPRESS,KSR Bengaluru,New Delhi
+13711,RailNexus Superfast 13711,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13712,RailNexus Intercity 13712,Intercity,EXPRESS,Mysuru,Belagavi
+13713,RailNexus Vande Bharat 13713,Vande Bharat,PREMIUM,Pune,Mysuru
+13714,RailNexus Shatabdi-style Prototype 13714,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13715,RailNexus Express 13715,Express,EXPRESS,New Delhi,Hyderabad
+13716,RailNexus Superfast 13716,Superfast,EXPRESS,Howrah,Secunderabad
+13717,RailNexus Intercity 13717,Intercity,EXPRESS,Mumbai,Gadag
+13718,RailNexus Vande Bharat 13718,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13719,RailNexus Shatabdi-style Prototype 13719,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13720,RailNexus Express 13720,Express,EXPRESS,KSR Bengaluru,New Delhi
+13721,RailNexus Superfast 13721,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13722,RailNexus Intercity 13722,Intercity,EXPRESS,Mysuru,Belagavi
+13723,RailNexus Vande Bharat 13723,Vande Bharat,PREMIUM,Pune,Mysuru
+13724,RailNexus Shatabdi-style Prototype 13724,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13725,RailNexus Express 13725,Express,EXPRESS,New Delhi,Hyderabad
+13726,RailNexus Superfast 13726,Superfast,EXPRESS,Howrah,Secunderabad
+13727,RailNexus Intercity 13727,Intercity,EXPRESS,Mumbai,Gadag
+13728,RailNexus Vande Bharat 13728,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13729,RailNexus Shatabdi-style Prototype 13729,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13730,RailNexus Express 13730,Express,EXPRESS,KSR Bengaluru,New Delhi
+13731,RailNexus Superfast 13731,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13732,RailNexus Intercity 13732,Intercity,EXPRESS,Mysuru,Belagavi
+13733,RailNexus Vande Bharat 13733,Vande Bharat,PREMIUM,Pune,Mysuru
+13734,RailNexus Shatabdi-style Prototype 13734,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13735,RailNexus Express 13735,Express,EXPRESS,New Delhi,Hyderabad
+13736,RailNexus Superfast 13736,Superfast,EXPRESS,Howrah,Secunderabad
+13737,RailNexus Intercity 13737,Intercity,EXPRESS,Mumbai,Gadag
+13738,RailNexus Vande Bharat 13738,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13739,RailNexus Shatabdi-style Prototype 13739,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13740,RailNexus Express 13740,Express,EXPRESS,KSR Bengaluru,New Delhi
+13741,RailNexus Superfast 13741,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13742,RailNexus Intercity 13742,Intercity,EXPRESS,Mysuru,Belagavi
+13743,RailNexus Vande Bharat 13743,Vande Bharat,PREMIUM,Pune,Mysuru
+13744,RailNexus Shatabdi-style Prototype 13744,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13745,RailNexus Express 13745,Express,EXPRESS,New Delhi,Hyderabad
+13746,RailNexus Superfast 13746,Superfast,EXPRESS,Howrah,Secunderabad
+13747,RailNexus Intercity 13747,Intercity,EXPRESS,Mumbai,Gadag
+13748,RailNexus Vande Bharat 13748,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13749,RailNexus Shatabdi-style Prototype 13749,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13750,RailNexus Express 13750,Express,EXPRESS,KSR Bengaluru,New Delhi
+13751,RailNexus Superfast 13751,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13752,RailNexus Intercity 13752,Intercity,EXPRESS,Mysuru,Belagavi
+13753,RailNexus Vande Bharat 13753,Vande Bharat,PREMIUM,Pune,Mysuru
+13754,RailNexus Shatabdi-style Prototype 13754,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13755,RailNexus Express 13755,Express,EXPRESS,New Delhi,Hyderabad
+13756,RailNexus Superfast 13756,Superfast,EXPRESS,Howrah,Secunderabad
+13757,RailNexus Intercity 13757,Intercity,EXPRESS,Mumbai,Gadag
+13758,RailNexus Vande Bharat 13758,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13759,RailNexus Shatabdi-style Prototype 13759,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13760,RailNexus Express 13760,Express,EXPRESS,KSR Bengaluru,New Delhi
+13761,RailNexus Superfast 13761,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13762,RailNexus Intercity 13762,Intercity,EXPRESS,Mysuru,Belagavi
+13763,RailNexus Vande Bharat 13763,Vande Bharat,PREMIUM,Pune,Mysuru
+13764,RailNexus Shatabdi-style Prototype 13764,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13765,RailNexus Express 13765,Express,EXPRESS,New Delhi,Hyderabad
+13766,RailNexus Superfast 13766,Superfast,EXPRESS,Howrah,Secunderabad
+13767,RailNexus Intercity 13767,Intercity,EXPRESS,Mumbai,Gadag
+13768,RailNexus Vande Bharat 13768,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13769,RailNexus Shatabdi-style Prototype 13769,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13770,RailNexus Express 13770,Express,EXPRESS,KSR Bengaluru,New Delhi
+13771,RailNexus Superfast 13771,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13772,RailNexus Intercity 13772,Intercity,EXPRESS,Mysuru,Belagavi
+13773,RailNexus Vande Bharat 13773,Vande Bharat,PREMIUM,Pune,Mysuru
+13774,RailNexus Shatabdi-style Prototype 13774,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13775,RailNexus Express 13775,Express,EXPRESS,New Delhi,Hyderabad
+13776,RailNexus Superfast 13776,Superfast,EXPRESS,Howrah,Secunderabad
+13777,RailNexus Intercity 13777,Intercity,EXPRESS,Mumbai,Gadag
+13778,RailNexus Vande Bharat 13778,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13779,RailNexus Shatabdi-style Prototype 13779,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13780,RailNexus Express 13780,Express,EXPRESS,KSR Bengaluru,New Delhi
+13781,RailNexus Superfast 13781,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13782,RailNexus Intercity 13782,Intercity,EXPRESS,Mysuru,Belagavi
+13783,RailNexus Vande Bharat 13783,Vande Bharat,PREMIUM,Pune,Mysuru
+13784,RailNexus Shatabdi-style Prototype 13784,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13785,RailNexus Express 13785,Express,EXPRESS,New Delhi,Hyderabad
+13786,RailNexus Superfast 13786,Superfast,EXPRESS,Howrah,Secunderabad
+13787,RailNexus Intercity 13787,Intercity,EXPRESS,Mumbai,Gadag
+13788,RailNexus Vande Bharat 13788,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13789,RailNexus Shatabdi-style Prototype 13789,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13790,RailNexus Express 13790,Express,EXPRESS,KSR Bengaluru,New Delhi
+13791,RailNexus Superfast 13791,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13792,RailNexus Intercity 13792,Intercity,EXPRESS,Mysuru,Belagavi
+13793,RailNexus Vande Bharat 13793,Vande Bharat,PREMIUM,Pune,Mysuru
+13794,RailNexus Shatabdi-style Prototype 13794,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13795,RailNexus Express 13795,Express,EXPRESS,New Delhi,Hyderabad
+13796,RailNexus Superfast 13796,Superfast,EXPRESS,Howrah,Secunderabad
+13797,RailNexus Intercity 13797,Intercity,EXPRESS,Mumbai,Gadag
+13798,RailNexus Vande Bharat 13798,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13799,RailNexus Shatabdi-style Prototype 13799,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13800,RailNexus Express 13800,Express,EXPRESS,KSR Bengaluru,New Delhi
+13801,RailNexus Superfast 13801,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13802,RailNexus Intercity 13802,Intercity,EXPRESS,Mysuru,Belagavi
+13803,RailNexus Vande Bharat 13803,Vande Bharat,PREMIUM,Pune,Mysuru
+13804,RailNexus Shatabdi-style Prototype 13804,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13805,RailNexus Express 13805,Express,EXPRESS,New Delhi,Hyderabad
+13806,RailNexus Superfast 13806,Superfast,EXPRESS,Howrah,Secunderabad
+13807,RailNexus Intercity 13807,Intercity,EXPRESS,Mumbai,Gadag
+13808,RailNexus Vande Bharat 13808,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13809,RailNexus Shatabdi-style Prototype 13809,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13810,RailNexus Express 13810,Express,EXPRESS,KSR Bengaluru,New Delhi
+13811,RailNexus Superfast 13811,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13812,RailNexus Intercity 13812,Intercity,EXPRESS,Mysuru,Belagavi
+13813,RailNexus Vande Bharat 13813,Vande Bharat,PREMIUM,Pune,Mysuru
+13814,RailNexus Shatabdi-style Prototype 13814,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13815,RailNexus Express 13815,Express,EXPRESS,New Delhi,Hyderabad
+13816,RailNexus Superfast 13816,Superfast,EXPRESS,Howrah,Secunderabad
+13817,RailNexus Intercity 13817,Intercity,EXPRESS,Mumbai,Gadag
+13818,RailNexus Vande Bharat 13818,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13819,RailNexus Shatabdi-style Prototype 13819,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13820,RailNexus Express 13820,Express,EXPRESS,KSR Bengaluru,New Delhi
+13821,RailNexus Superfast 13821,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13822,RailNexus Intercity 13822,Intercity,EXPRESS,Mysuru,Belagavi
+13823,RailNexus Vande Bharat 13823,Vande Bharat,PREMIUM,Pune,Mysuru
+13824,RailNexus Shatabdi-style Prototype 13824,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13825,RailNexus Express 13825,Express,EXPRESS,New Delhi,Hyderabad
+13826,RailNexus Superfast 13826,Superfast,EXPRESS,Howrah,Secunderabad
+13827,RailNexus Intercity 13827,Intercity,EXPRESS,Mumbai,Gadag
+13828,RailNexus Vande Bharat 13828,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13829,RailNexus Shatabdi-style Prototype 13829,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13830,RailNexus Express 13830,Express,EXPRESS,KSR Bengaluru,New Delhi
+13831,RailNexus Superfast 13831,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13832,RailNexus Intercity 13832,Intercity,EXPRESS,Mysuru,Belagavi
+13833,RailNexus Vande Bharat 13833,Vande Bharat,PREMIUM,Pune,Mysuru
+13834,RailNexus Shatabdi-style Prototype 13834,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13835,RailNexus Express 13835,Express,EXPRESS,New Delhi,Hyderabad
+13836,RailNexus Superfast 13836,Superfast,EXPRESS,Howrah,Secunderabad
+13837,RailNexus Intercity 13837,Intercity,EXPRESS,Mumbai,Gadag
+13838,RailNexus Vande Bharat 13838,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13839,RailNexus Shatabdi-style Prototype 13839,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13840,RailNexus Express 13840,Express,EXPRESS,KSR Bengaluru,New Delhi
+13841,RailNexus Superfast 13841,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13842,RailNexus Intercity 13842,Intercity,EXPRESS,Mysuru,Belagavi
+13843,RailNexus Vande Bharat 13843,Vande Bharat,PREMIUM,Pune,Mysuru
+13844,RailNexus Shatabdi-style Prototype 13844,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13845,RailNexus Express 13845,Express,EXPRESS,New Delhi,Hyderabad
+13846,RailNexus Superfast 13846,Superfast,EXPRESS,Howrah,Secunderabad
+13847,RailNexus Intercity 13847,Intercity,EXPRESS,Mumbai,Gadag
+13848,RailNexus Vande Bharat 13848,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13849,RailNexus Shatabdi-style Prototype 13849,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13850,RailNexus Express 13850,Express,EXPRESS,KSR Bengaluru,New Delhi
+13851,RailNexus Superfast 13851,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13852,RailNexus Intercity 13852,Intercity,EXPRESS,Mysuru,Belagavi
+13853,RailNexus Vande Bharat 13853,Vande Bharat,PREMIUM,Pune,Mysuru
+13854,RailNexus Shatabdi-style Prototype 13854,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13855,RailNexus Express 13855,Express,EXPRESS,New Delhi,Hyderabad
+13856,RailNexus Superfast 13856,Superfast,EXPRESS,Howrah,Secunderabad
+13857,RailNexus Intercity 13857,Intercity,EXPRESS,Mumbai,Gadag
+13858,RailNexus Vande Bharat 13858,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13859,RailNexus Shatabdi-style Prototype 13859,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13860,RailNexus Express 13860,Express,EXPRESS,KSR Bengaluru,New Delhi
+13861,RailNexus Superfast 13861,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13862,RailNexus Intercity 13862,Intercity,EXPRESS,Mysuru,Belagavi
+13863,RailNexus Vande Bharat 13863,Vande Bharat,PREMIUM,Pune,Mysuru
+13864,RailNexus Shatabdi-style Prototype 13864,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13865,RailNexus Express 13865,Express,EXPRESS,New Delhi,Hyderabad
+13866,RailNexus Superfast 13866,Superfast,EXPRESS,Howrah,Secunderabad
+13867,RailNexus Intercity 13867,Intercity,EXPRESS,Mumbai,Gadag
+13868,RailNexus Vande Bharat 13868,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13869,RailNexus Shatabdi-style Prototype 13869,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13870,RailNexus Express 13870,Express,EXPRESS,KSR Bengaluru,New Delhi
+13871,RailNexus Superfast 13871,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13872,RailNexus Intercity 13872,Intercity,EXPRESS,Mysuru,Belagavi
+13873,RailNexus Vande Bharat 13873,Vande Bharat,PREMIUM,Pune,Mysuru
+13874,RailNexus Shatabdi-style Prototype 13874,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13875,RailNexus Express 13875,Express,EXPRESS,New Delhi,Hyderabad
+13876,RailNexus Superfast 13876,Superfast,EXPRESS,Howrah,Secunderabad
+13877,RailNexus Intercity 13877,Intercity,EXPRESS,Mumbai,Gadag
+13878,RailNexus Vande Bharat 13878,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13879,RailNexus Shatabdi-style Prototype 13879,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13880,RailNexus Express 13880,Express,EXPRESS,KSR Bengaluru,New Delhi
+13881,RailNexus Superfast 13881,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13882,RailNexus Intercity 13882,Intercity,EXPRESS,Mysuru,Belagavi
+13883,RailNexus Vande Bharat 13883,Vande Bharat,PREMIUM,Pune,Mysuru
+13884,RailNexus Shatabdi-style Prototype 13884,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13885,RailNexus Express 13885,Express,EXPRESS,New Delhi,Hyderabad
+13886,RailNexus Superfast 13886,Superfast,EXPRESS,Howrah,Secunderabad
+13887,RailNexus Intercity 13887,Intercity,EXPRESS,Mumbai,Gadag
+13888,RailNexus Vande Bharat 13888,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13889,RailNexus Shatabdi-style Prototype 13889,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13890,RailNexus Express 13890,Express,EXPRESS,KSR Bengaluru,New Delhi
+13891,RailNexus Superfast 13891,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13892,RailNexus Intercity 13892,Intercity,EXPRESS,Mysuru,Belagavi
+13893,RailNexus Vande Bharat 13893,Vande Bharat,PREMIUM,Pune,Mysuru
+13894,RailNexus Shatabdi-style Prototype 13894,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13895,RailNexus Express 13895,Express,EXPRESS,New Delhi,Hyderabad
+13896,RailNexus Superfast 13896,Superfast,EXPRESS,Howrah,Secunderabad
+13897,RailNexus Intercity 13897,Intercity,EXPRESS,Mumbai,Gadag
+13898,RailNexus Vande Bharat 13898,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13899,RailNexus Shatabdi-style Prototype 13899,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13900,RailNexus Express 13900,Express,EXPRESS,KSR Bengaluru,New Delhi
+13901,RailNexus Superfast 13901,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13902,RailNexus Intercity 13902,Intercity,EXPRESS,Mysuru,Belagavi
+13903,RailNexus Vande Bharat 13903,Vande Bharat,PREMIUM,Pune,Mysuru
+13904,RailNexus Shatabdi-style Prototype 13904,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13905,RailNexus Express 13905,Express,EXPRESS,New Delhi,Hyderabad
+13906,RailNexus Superfast 13906,Superfast,EXPRESS,Howrah,Secunderabad
+13907,RailNexus Intercity 13907,Intercity,EXPRESS,Mumbai,Gadag
+13908,RailNexus Vande Bharat 13908,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13909,RailNexus Shatabdi-style Prototype 13909,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13910,RailNexus Express 13910,Express,EXPRESS,KSR Bengaluru,New Delhi
+13911,RailNexus Superfast 13911,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13912,RailNexus Intercity 13912,Intercity,EXPRESS,Mysuru,Belagavi
+13913,RailNexus Vande Bharat 13913,Vande Bharat,PREMIUM,Pune,Mysuru
+13914,RailNexus Shatabdi-style Prototype 13914,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13915,RailNexus Express 13915,Express,EXPRESS,New Delhi,Hyderabad
+13916,RailNexus Superfast 13916,Superfast,EXPRESS,Howrah,Secunderabad
+13917,RailNexus Intercity 13917,Intercity,EXPRESS,Mumbai,Gadag
+13918,RailNexus Vande Bharat 13918,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13919,RailNexus Shatabdi-style Prototype 13919,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13920,RailNexus Express 13920,Express,EXPRESS,KSR Bengaluru,New Delhi
+13921,RailNexus Superfast 13921,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13922,RailNexus Intercity 13922,Intercity,EXPRESS,Mysuru,Belagavi
+13923,RailNexus Vande Bharat 13923,Vande Bharat,PREMIUM,Pune,Mysuru
+13924,RailNexus Shatabdi-style Prototype 13924,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13925,RailNexus Express 13925,Express,EXPRESS,New Delhi,Hyderabad
+13926,RailNexus Superfast 13926,Superfast,EXPRESS,Howrah,Secunderabad
+13927,RailNexus Intercity 13927,Intercity,EXPRESS,Mumbai,Gadag
+13928,RailNexus Vande Bharat 13928,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13929,RailNexus Shatabdi-style Prototype 13929,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13930,RailNexus Express 13930,Express,EXPRESS,KSR Bengaluru,New Delhi
+13931,RailNexus Superfast 13931,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13932,RailNexus Intercity 13932,Intercity,EXPRESS,Mysuru,Belagavi
+13933,RailNexus Vande Bharat 13933,Vande Bharat,PREMIUM,Pune,Mysuru
+13934,RailNexus Shatabdi-style Prototype 13934,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13935,RailNexus Express 13935,Express,EXPRESS,New Delhi,Hyderabad
+13936,RailNexus Superfast 13936,Superfast,EXPRESS,Howrah,Secunderabad
+13937,RailNexus Intercity 13937,Intercity,EXPRESS,Mumbai,Gadag
+13938,RailNexus Vande Bharat 13938,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13939,RailNexus Shatabdi-style Prototype 13939,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13940,RailNexus Express 13940,Express,EXPRESS,KSR Bengaluru,New Delhi
+13941,RailNexus Superfast 13941,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13942,RailNexus Intercity 13942,Intercity,EXPRESS,Mysuru,Belagavi
+13943,RailNexus Vande Bharat 13943,Vande Bharat,PREMIUM,Pune,Mysuru
+13944,RailNexus Shatabdi-style Prototype 13944,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13945,RailNexus Express 13945,Express,EXPRESS,New Delhi,Hyderabad
+13946,RailNexus Superfast 13946,Superfast,EXPRESS,Howrah,Secunderabad
+13947,RailNexus Intercity 13947,Intercity,EXPRESS,Mumbai,Gadag
+13948,RailNexus Vande Bharat 13948,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13949,RailNexus Shatabdi-style Prototype 13949,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13950,RailNexus Express 13950,Express,EXPRESS,KSR Bengaluru,New Delhi
+13951,RailNexus Superfast 13951,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13952,RailNexus Intercity 13952,Intercity,EXPRESS,Mysuru,Belagavi
+13953,RailNexus Vande Bharat 13953,Vande Bharat,PREMIUM,Pune,Mysuru
+13954,RailNexus Shatabdi-style Prototype 13954,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13955,RailNexus Express 13955,Express,EXPRESS,New Delhi,Hyderabad
+13956,RailNexus Superfast 13956,Superfast,EXPRESS,Howrah,Secunderabad
+13957,RailNexus Intercity 13957,Intercity,EXPRESS,Mumbai,Gadag
+13958,RailNexus Vande Bharat 13958,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13959,RailNexus Shatabdi-style Prototype 13959,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13960,RailNexus Express 13960,Express,EXPRESS,KSR Bengaluru,New Delhi
+13961,RailNexus Superfast 13961,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13962,RailNexus Intercity 13962,Intercity,EXPRESS,Mysuru,Belagavi
+13963,RailNexus Vande Bharat 13963,Vande Bharat,PREMIUM,Pune,Mysuru
+13964,RailNexus Shatabdi-style Prototype 13964,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13965,RailNexus Express 13965,Express,EXPRESS,New Delhi,Hyderabad
+13966,RailNexus Superfast 13966,Superfast,EXPRESS,Howrah,Secunderabad
+13967,RailNexus Intercity 13967,Intercity,EXPRESS,Mumbai,Gadag
+13968,RailNexus Vande Bharat 13968,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13969,RailNexus Shatabdi-style Prototype 13969,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13970,RailNexus Express 13970,Express,EXPRESS,KSR Bengaluru,New Delhi
+13971,RailNexus Superfast 13971,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13972,RailNexus Intercity 13972,Intercity,EXPRESS,Mysuru,Belagavi
+13973,RailNexus Vande Bharat 13973,Vande Bharat,PREMIUM,Pune,Mysuru
+13974,RailNexus Shatabdi-style Prototype 13974,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13975,RailNexus Express 13975,Express,EXPRESS,New Delhi,Hyderabad
+13976,RailNexus Superfast 13976,Superfast,EXPRESS,Howrah,Secunderabad
+13977,RailNexus Intercity 13977,Intercity,EXPRESS,Mumbai,Gadag
+13978,RailNexus Vande Bharat 13978,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13979,RailNexus Shatabdi-style Prototype 13979,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13980,RailNexus Express 13980,Express,EXPRESS,KSR Bengaluru,New Delhi
+13981,RailNexus Superfast 13981,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13982,RailNexus Intercity 13982,Intercity,EXPRESS,Mysuru,Belagavi
+13983,RailNexus Vande Bharat 13983,Vande Bharat,PREMIUM,Pune,Mysuru
+13984,RailNexus Shatabdi-style Prototype 13984,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13985,RailNexus Express 13985,Express,EXPRESS,New Delhi,Hyderabad
+13986,RailNexus Superfast 13986,Superfast,EXPRESS,Howrah,Secunderabad
+13987,RailNexus Intercity 13987,Intercity,EXPRESS,Mumbai,Gadag
+13988,RailNexus Vande Bharat 13988,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13989,RailNexus Shatabdi-style Prototype 13989,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
+13990,RailNexus Express 13990,Express,EXPRESS,KSR Bengaluru,New Delhi
+13991,RailNexus Superfast 13991,Superfast,EXPRESS,MGR Chennai Central,New Delhi
+13992,RailNexus Intercity 13992,Intercity,EXPRESS,Mysuru,Belagavi
+13993,RailNexus Vande Bharat 13993,Vande Bharat,PREMIUM,Pune,Mysuru
+13994,RailNexus Shatabdi-style Prototype 13994,Shatabdi-style Prototype,PREMIUM,Hyderabad,Arsikere
+13995,RailNexus Express 13995,Express,EXPRESS,New Delhi,Hyderabad
+13996,RailNexus Superfast 13996,Superfast,EXPRESS,Howrah,Secunderabad
+13997,RailNexus Intercity 13997,Intercity,EXPRESS,Mumbai,Gadag
+13998,RailNexus Vande Bharat 13998,Vande Bharat,PREMIUM,Ajmer,Secunderabad
+13999,RailNexus Shatabdi-style Prototype 13999,Shatabdi-style Prototype,PREMIUM,Ernakulam,Hubballi
