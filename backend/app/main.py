@@ -37,7 +37,9 @@ for router in [
 @app.get("/", include_in_schema=False)
 def dashboard():
     return FileResponse(str(__import__("pathlib").Path(__file__).resolve().parents[2] / "frontend" / "static" / "index.html"))
-
+@app.get("/debug/routes")
+def get_routes():
+  return [route.path for route in app.routes]
 def _seed_fleet():
     # Seed all 2,000 prototype trains so the dashboard has a complete live fleet
     # immediately, even before the simulator performs its first tick.
