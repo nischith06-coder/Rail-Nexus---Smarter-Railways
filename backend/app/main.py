@@ -9,7 +9,13 @@ from app.state import now_iso, get_train_state, set_train_state, get_demo_overri
 from app.data_loader import trains as load_trains, routes as load_routes
 
 app = FastAPI(title="RailNexus API", version="1.1.0", description="RailNexus — Smarter Railways")
-app.add_middleware(CORSMiddleware, allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"], allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 for router in [health.router,trains.router,eta.router,events.router,platforms.router,seats.router,notifications.router,network.router,whatif.router,demo.router,crew.router,station_view.router,operations.router,websocket.router]:
     app.include_router(router)
 
