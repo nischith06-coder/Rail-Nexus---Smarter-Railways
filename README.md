@@ -8,6 +8,7 @@ SIH26028 prototype for Dynamic Forecast of Expected Time of Arrival (ETA) for Co
 2. Double-click `start_railnexus.bat`.
 3. The launcher creates the environment, installs backend packages, prepares the 2,000-train prototype fleet, starts FastAPI, starts the simulator, and opens the dashboard.
 4. Dashboard: `http://127.0.0.1:8000/`
+5. Live Website: 'https://rail-nexus-smarter-railways-85alyhi7u-rail-nexus.vercel.app'
 
 Node.js, npm, Cursor and Vite are **not required** for this one-click version. The production-style React source remains under `frontend/src/` for future development, while `frontend/static/index.html` is the zero-dependency demo dashboard served directly by FastAPI.
 
